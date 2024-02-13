@@ -27,8 +27,7 @@ export default function OurCta1() {
                   Find the talent needed to get your business growing.
                 </h2>
                 <p className="cta-text">
-                  Advertise your jobs to millions of monthly users and search
-                  15.8 million CVs
+                  Discover the ProContractorsPlus.com advantage today!
                 </p>
                 <Link href="/contact" className="ud-btn btn-thm2">
                   Get Started <i className="fal fa-arrow-right-long" />

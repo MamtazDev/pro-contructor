@@ -22,43 +22,37 @@ export default function CtaBanner1() {
               <div className="col-xl-5 wow fadeInRight" data-wow-delay="300ms">
                 <div className="mb30">
                   <div className="main-title">
-                    <h2 className="title">
-                      A whole world of freelance{" "}
-                      <br className="d-none d-xl-block" /> talent at your
-                      fingertips
-                    </h2>
+                    <h2 className="title">Why Choose Us?</h2>
                   </div>
                 </div>
                 <div className="why-chose-list">
                   <div className="list-one d-flex align-items-start mb30">
                     <span className="list-icon flex-shrink-0 flaticon-badge" />
                     <div className="list-content flex-grow-1 ml20">
-                      <h4 className="mb-1">Proof of quality</h4>
+                      <h4 className="mb-1">Verified Contractors:</h4>
                       <p className="text mb-0 fz15">
-                        Check any pro’s work samples, client reviews, and
-                        identity <br className="d-none d-lg-block" />{" "}
-                        verification.
+                        We only partner with licensed, insured, and skilled
+                        contractors to ensure your projects are in safe hands.
                       </p>
                     </div>
                   </div>
                   <div className="list-one d-flex align-items-start mb30">
                     <span className="list-icon flex-shrink-0 flaticon-money" />
                     <div className="list-content flex-grow-1 ml20">
-                      <h4 className="mb-1">No cost until you hire</h4>
+                      <h4 className="mb-1">Innovative Tools:</h4>
                       <p className="text mb-0 fz15">
-                        Interview potential fits for your job, negotiate rates,
-                        and only pay <br className="d-none d-lg-block" /> for
-                        work you approve.
+                        Enjoy state-of-the-art project management tools, making
+                        your experience seamless and stress-free.
                       </p>
                     </div>
                   </div>
                   <div className="list-one d-flex align-items-start mb30">
                     <span className="list-icon flex-shrink-0 flaticon-security" />
                     <div className="list-content flex-grow-1 ml20">
-                      <h4 className="mb-1">Safe and secure</h4>
+                      <h4 className="mb-1">Customer Support: </h4>
                       <p className="text mb-0 fz15">
-                        Focus on your work knowing we help protect your data and
-                        privacy. We’re here with 24/7 support if you need it.
+                        Our dedicated support team is ready to assist you at
+                        every step of your project journey.
                       </p>
                     </div>
                   </div>

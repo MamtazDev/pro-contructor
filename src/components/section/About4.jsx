@@ -186,14 +186,12 @@ export default function About4() {
                   className="about-box-1 pe-4 mt100 mt0-lg mb30-lg wow fadeInLeft"
                   data-wow-delay="300ms"
                 >
-                  <h2 className="title mb10">
-                    Truested By Best <br />
-                    Freelancer
-                  </h2>
+                  <h2 className="title mb10">Our Mission:</h2>
                   <p className="text mb25 mb30-md">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod <br />
-                    tempor incididunt.
+                    To revolutionize project management by providing a
+                    user-friendly platform that fosters trust, transparency, and
+                    efficiency in the relationship between clients and
+                    contractors
                   </p>
                   <div className="list-style3 mb40 mb30-md">
                     <ul>

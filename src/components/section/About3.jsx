@@ -6,19 +6,17 @@ export default function About3() {
           <div className="row">
             <div className="col-lg-6">
               <div className="main-title">
-                <h2>
-                  Join World's Best Marketplace{" "}
-                  <br className="d-none d-lg-block" /> for Workers
-                </h2>
+                <h2>Who We Are:</h2>
               </div>
             </div>
             <div className="col-lg-6">
               <p className="text mb20">
-                It is a long established fact that a reader will be distracted
-                by the readable content of a page when looking at its layout.
-                The point of using Lorem Ipsum is that it has a more-or-less
-                normal distribution of letters, as opposed to using 'Content
-                here, content here', making it look like readable English.
+                At ProContractorsPlus.com, we believe in simplifying the process
+                of finding and hiring contractors. Our platform was born out of
+                a passion for connecting people with the best professionals in
+                the industry. With years of experience and a commitment to
+                excellence, we've created a space where homeowners and
+                businesses can effortlessly navigate the world of contracting.
               </p>
               <div className="list-style2">
                 <ul className="mb25">

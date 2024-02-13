@@ -18,10 +18,10 @@ export default function Header3() {
                 <div className="d-flex align-items-center">
                   <Link className="header-logo bdrr1 pr30 pr5-xl" href="/">
                     <Image
-                      height={40}
-                      width={133}
-                      className="w-100 h-100 object-fit-contain"
-                      src="/images/header-logo-dark.svg"
+                      height={50}
+                      width={80}
+                      className="object-fit-contain"
+                      src="/images/logo.png"
                       alt="Header Logo"
                     />
                   </Link>

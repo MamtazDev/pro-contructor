@@ -1,4 +1,3 @@
-
 import About2 from "@/components/section/About2";
 import About3 from "@/components/section/About3";
 import About4 from "@/components/section/About4";
@@ -16,7 +15,6 @@ export const metadata = {
 export default function page() {
   return (
     <>
-    
       <About2 />
       <About3 />
       <CtaBanner1 />

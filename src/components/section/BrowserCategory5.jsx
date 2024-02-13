@@ -20,7 +20,8 @@ export default function BrowserCategory5() {
                 <h2 className="title">Browse talent by category</h2>
                 <p className="paragraph">
                   Get some Inspirations from 1800+ skills <br />
-                  Ready to get started? Explore our site and experience the future of project management!
+                  Ready to get started? Explore our site and experience the
+                  future of project management!
                 </p>
               </div>
             </div>
@@ -34,8 +35,8 @@ export default function BrowserCategory5() {
             </div>
           </div>
           <div className="row wow fadeInUp" data-wow-delay="300ms">
-            {browserCategory.slice(0, 8).map((item,i) => (
-              <div key={ i } className="col-sm-6 col-lg-3">
+            {browserCategory.slice(0, 8).map((item, i) => (
+              <div key={i} className="col-sm-6 col-lg-3">
                 <Link href="/service-1">
                   <BrowserCategoryCard5 data={item} />
                 </Link>
