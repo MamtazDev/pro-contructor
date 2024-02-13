@@ -58,6 +58,9 @@ export default function Listing1() {
       <section className="pt30 pb90">
         <div className="container">
           <ListingOption1 />
+          <p className="text mb30">
+            Explore our services and find the perfect match for your project:
+          </p>
           <div className="row">
             {product1
               .slice(0, 12)
@@ -69,8 +72,8 @@ export default function Listing1() {
               .filter(sortByFilter)
               .filter(designToolFilter)
               .filter(speakFilter)
-              .map((item,i) => (
-                <div key={ i } className="col-sm-6 col-xl-3">
+              .map((item, i) => (
+                <div key={i} className="col-sm-6 col-xl-3">
                   {item?.gallery ? (
                     <PopularServiceSlideCard1 data={item} />
                   ) : (
@@ -79,6 +82,10 @@ export default function Listing1() {
                 </div>
               ))}
           </div>
+          <p className="text mb30">
+            Your project is important to us, and we're here to ensure it's
+            executed flawlessly.
+          </p>
           <Pagination1 />
         </div>
       </section>
