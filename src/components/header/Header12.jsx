@@ -39,12 +39,13 @@ export default function Header12() {
                 <div className="d-flex align-items-center justify-content-between">
                   <div className="logos">
                     <Link className="header-logo logo2" href="/">
-                      <Image
-                        width={133}
-                        height={40}
-                        src="/images/header-logo3.svg"
-                        alt="Header Logo"
-                      />
+                    <Image
+                      height={50}
+                      width={80}
+                      className="object-fit-contain"
+                      src="/images/logo.png"
+                      alt="Header Logo"
+                    />
                     </Link>
                   </div>
                   <div className="home1_style">

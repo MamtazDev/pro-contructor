@@ -1,6 +1,6 @@
 export const about = [
   { id: 1, name: "Careers", path: "/" },
-  { id: 2, name: "Press & News", path: "/" },
+  { id: 2, name: "Press & News", path: "/press-and-news" },
   { id: 3, name: "Partnerships", path: "/" },
   { id: 4, name: "Privacy Policy", path: "/privacy-policy" },
   { id: 5, name: "Terms of Service", path: "/" },

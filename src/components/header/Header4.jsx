@@ -17,12 +17,13 @@ export default function Header4() {
                 <div className="d-flex align-items-center justify-content-between">
                   <div className="logos mr20">
                     <Link className="header-logo logo2" href="/">
-                      <Image
-                        height={40}
-                        width={133}
-                        src="/images/header-logo3.svg"
-                        alt="Header Logo"
-                      />
+                    <Image
+                      height={50}
+                      width={80}
+                      className="object-fit-contain"
+                      src="/images/logo.png"
+                      alt="Header Logo"
+                    />
                     </Link>
                   </div>
                   <Navigation />
