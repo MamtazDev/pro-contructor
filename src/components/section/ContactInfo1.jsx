@@ -20,8 +20,7 @@ export default function ContactInfo1() {
                   <div className="details">
                     <h5 className="title">Address</h5>
                     <p className="mb-0 text">
-                      328 Queensberry Street, North <br /> Melbourne VIC 3051,
-                      Australia.
+                      6123 Lady Hammond Road Halifax NS B3K 0H6
                     </p>
                   </div>
                 </div>

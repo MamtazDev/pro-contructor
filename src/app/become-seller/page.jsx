@@ -6,7 +6,6 @@ import OurFaq1 from "@/components/section/OurFaq1";
 import OurFeature1 from "@/components/section/OurFeature1";
 import OurTeam1 from "@/components/section/OurTeam1";
 
-
 export const metadata = {
   title:
     "Freeio - Freelance Marketplace React/Next Js Template | Become seller",
@@ -15,7 +14,6 @@ export const metadata = {
 export default function page() {
   return (
     <>
-    
       <Breadcumb1
         title={"Work Your Way"}
         brief={` Give your visitor a smooth online

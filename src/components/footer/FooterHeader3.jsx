@@ -4,7 +4,7 @@ import FooterSocial3 from "./FooterSocial3";
 
 const links = [
   { id: 1, name: "Terms of Service", path: "/" },
-  { id: 2, name: "Privacy Policy", path: "/" },
+  { id: 2, name: "Privacy Policy", path: "/privacy-policy" },
   { id: 3, name: "Site Map", path: "/" },
 ];
 

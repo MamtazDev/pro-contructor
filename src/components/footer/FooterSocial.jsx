@@ -8,18 +8,24 @@ export default function FooterSocial() {
           <Link className="text-white me-2 fw500 fz17" href="/">
             Follow us
           </Link>
-          <a>
+          <a
+            target="_blank"
+            href="https://www.facebook.com/profile.php?id=61556516969476"
+          >
             <i className="fab fa-facebook-f list-inline-item" />
           </a>
-          <a>
+          {/* <a>
             <i className="fab fa-twitter list-inline-item" />
-          </a>
-          <a>
+          </a> */}
+          <a
+            target="_blank"
+            href="https://www.instagram.com/procontractorsplus/"
+          >
             <i className="fab fa-instagram list-inline-item" />
           </a>
-          <a>
+          {/* <a>
             <i className="fab fa-linkedin-in list-inline-item" />
-          </a>
+          </a> */}
         </div>
       </div>
     </>

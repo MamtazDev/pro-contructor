@@ -15,7 +15,7 @@ export default function Footer18() {
               <a className="fz17 fw500 text-white mr15-md mr30" href="#">
                 Terms of Service
               </a>
-              <a className="fz17 fw500 text-white mr15-md mr30" href="#">
+              <a href="/privacy-policy"  className="fz17 fw500 text-white mr15-md mr30" href="#">
                 Privacy Policy
               </a>
               <a className="fz17 fw500 text-white" href="#">
