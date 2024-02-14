@@ -18,9 +18,9 @@ export default function BlogArea4() {
               {blogSingle ? (
                 <h2 className="blog-title">{blogSingle.title}</h2>
               ) : (
-                <h2 className="blog-title">
-                  Engendering a culture of professional development
-                </h2>
+                <>
+                  <h2 className="blog-title">Stay Informed, Stay Inspired:</h2>{" "}
+                </>
               )}
 
               {blogSingle ? (
@@ -97,11 +97,13 @@ export default function BlogArea4() {
                   Bringing the culture of sharing to everyone
                 </h5>
                 <p className="mb25 ff-heading text">
-                  Aliquam hendrerit sollicitudin purus, quis rutrum mi accumsan
-                  nec. Quisque bibendum orci ac nibh facilisis, at malesuada
-                  orci congue. Nullam tempus sollicitudin cursus. Ut et
-                  adipiscing erat. Curabitur this is a text link libero tempus
-                  congue.
+                  <p className="text">
+                    Explore our blog for the latest trends, tips, and
+                    inspiration in the world of home improvement, renovation,
+                    and contracting. Whether you're a DIY enthusiast or looking
+                    for professional insights, our blog has something for
+                    everyone.
+                  </p>
                 </p>
                 <p className="ff-heading text">
                   Duis mattis laoreet neque, et ornare neque sollicitudin at.
@@ -126,7 +128,7 @@ export default function BlogArea4() {
                 </blockquote>
               </div>
               <div className="ui-content">
-                <h4 className="title mb25">What you'll learn</h4>
+                <h4 className="title mb25">Recent Blog Posts:</h4>
               </div>
               <div className="row">
                 <div className="col-auto">
@@ -135,29 +137,25 @@ export default function BlogArea4() {
                       <ul>
                         <li>
                           <i className="far fa-check text-thm3 bgc-thm3-light" />
-                          Become a UI/UX designer.
+                          Top Trends in Home Design for 2024
                         </li>
                         <li>
                           <i className="far fa-check text-thm3 bgc-thm3-light" />
-                          You will be able to start earning money Figma skills.
+                          DIY Tips for a Budget-Friendly Kitchen Renovation
                         </li>
                         <li>
                           <i className="far fa-check text-thm3 bgc-thm3-light" />
-                          Build a UI project from beginning to end.
-                        </li>
-                        <li>
-                          <i className="far fa-check text-thm3 bgc-thm3-light" />
-                          Work with colors &amp; fonts.
-                        </li>
-                        <li>
-                          <i className="far fa-check text-thm3 bgc-thm3-light" />
-                          You will create your own UI Kit.
+                          Choosing the Right Flooring Material for Your Home
                         </li>
                       </ul>
+                      <p>
+                        Read, learn, and get inspired with
+                        ProContractorsPlus.com!
+                      </p>
                     </div>
                   </div>
                 </div>
-                <div className="col-auto ms-xl-5">
+                {/* <div className="col-auto ms-xl-5">
                   <div className="ui-content">
                     <div className="list-style1">
                       <ul>
@@ -184,7 +182,7 @@ export default function BlogArea4() {
                       </ul>
                     </div>
                   </div>
-                </div>
+                </div> */}
               </div>
               <div className="col-lg-12 mt40">
                 <Image

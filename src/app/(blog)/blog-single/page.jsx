@@ -10,10 +10,9 @@ export const metadata = {
 export default function page() {
   return (
     <>
-    
       <Breadcumb3 path={["Home", "Services", "Design & Creative"]} />
       <BlogArea4 />
-      <RecentPostArea1 />
+      {/* <RecentPostArea1 /> */}
     </>
   );
 }
