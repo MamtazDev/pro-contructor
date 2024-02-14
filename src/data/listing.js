@@ -95,11 +95,11 @@ export const category = [
 ];
 
 export const categor2 = [
-  { id: 1, title: "Electronics", total: "1,945" },
-  { id: 2, title: "Clothing", total: "8,136" },
-  { id: 3, title: "Home and Kitchen", total: "917" },
-  { id: 4, title: "Health and Beauty", total: "240" },
-  { id: 5, title: "Sports and Outdoors", total: "2,460" },
+  { id: 1, title: "Power Tools", total: "1,945" },
+  { id: 2, title: "Safety Equipment", total: "8,136" },
+  { id: 3, title: "Building Materials", total: "917" },
+  { id: 4, title: "Outdoor and Garden Supplies", total: "240" },
+  { id: 5, title: "And More!", total: "2,460" },
 ];
 
 export const projectType = [
