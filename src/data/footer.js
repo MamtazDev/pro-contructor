@@ -4,7 +4,7 @@ export const about = [
   { id: 3, name: "Partnerships", path: "/partnerships" },
   { id: 4, name: "Privacy Policy", path: "/privacy-policy" },
   { id: 5, name: "Terms of Service", path: "/" },
-  { id: 6, name: "Investor Relations", path: "/" },
+  { id: 6, name: "Investor Relations", path: "/investor-relations" },
 ];
 
 export const category = [
