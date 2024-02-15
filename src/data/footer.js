@@ -21,7 +21,7 @@ export const category = [
 
 export const support = [
   { id: 1, name: "Help & Support", path: "/help-and-support" },
-  { id: 2, name: "Trust & Safety", path: "/" },
+  { id: 2, name: "Trust & Safety", path: "/trust-and-safety" },
   { id: 3, name: "Selling on Freeio", path: "/" },
   { id: 4, name: "Buying on Freeio", path: "/" },
 ];
