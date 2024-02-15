@@ -403,7 +403,7 @@ export const shopProduct1 = [
     price: 39.99,
     oldPrice: 60,
     sku: "RTA-0058",
-    category: "Clothing",
+    category: "Power Tools",
     tag: "business,seo",
     gallery: [
       "/images/shop/1.png",
@@ -431,7 +431,7 @@ export const shopProduct1 = [
     price: 69.99,
     oldPrice: 75,
     sku: "RTA-0058",
-    category: "Electronics",
+    category: "Safety Equipment",
     tag: "business,seo",
     gallery: [
       "/images/shop/2.png",
@@ -459,7 +459,7 @@ export const shopProduct1 = [
     price: 28.99,
     oldPrice: 55,
     sku: "RTA-0058",
-    category: "Home and Kitchen",
+    category: "Building Materials",
     tag: "business,seo",
     gallery: [
       "/images/shop/3.png",
@@ -487,7 +487,7 @@ export const shopProduct1 = [
     price: 56.99,
     oldPrice: 65,
     sku: "RTA-0058",
-    category: "Sports and Outdoors",
+    category: "Outdoor and Garden Supplies",
     tag: "business,seo",
     gallery: [
       "/images/shop/4.png",
@@ -514,7 +514,7 @@ export const shopProduct1 = [
     price: 87.43,
     oldPrice: 65,
     sku: "RTA-0058",
-    category: "Clothing",
+    category: "And More!",
     tag: "business,seo",
     gallery: [
       "/images/shop/5.png",
@@ -542,7 +542,7 @@ export const shopProduct1 = [
     price: 149.0,
     oldPrice: 65,
     sku: "RTA-0058",
-    category: "Electronics",
+    category: "Power Tools",
     tag: "business,seo",
     gallery: [
       "/images/shop/6.png",
@@ -569,7 +569,7 @@ export const shopProduct1 = [
     price: 79.99,
     oldPrice: 65,
     sku: "RTA-0058",
-    category: "Home and Kitchen",
+    category: "Safety Equipment",
     tag: "business,seo",
     gallery: [
       "/images/shop/7.png",
@@ -597,7 +597,7 @@ export const shopProduct1 = [
     price: 119.0,
     oldPrice: 65,
     sku: "RTA-0058",
-    category: "Sports and Outdoors",
+    category: "Building Materials",
     tag: "business,seo",
     gallery: [
       "/images/shop/8.png",
@@ -624,7 +624,7 @@ export const shopProduct1 = [
     price: 79.97,
     oldPrice: 65,
     sku: "RTA-0058",
-    category: "Clothing",
+    category: "Outdoor and Garden Supplies",
     tag: "business,seo",
     author: {
       img: "/images/team/fl-s-1.png",
@@ -651,7 +651,7 @@ export const shopProduct1 = [
     price: 59.97,
     oldPrice: 65,
     sku: "RTA-0058",
-    category: "Clothing",
+    category: "And More!",
     tag: "business,seo",
     author: {
       img: "/images/team/fl-s-1.png",
@@ -678,7 +678,7 @@ export const shopProduct1 = [
     price: 119.99,
     oldPrice: 65,
     sku: "RTA-0058",
-    category: "Clothing",
+    category: "Power Tools",
     tag: "business,seo",
     author: {
       img: "/images/team/fl-s-1.png",
@@ -705,7 +705,7 @@ export const shopProduct1 = [
     price: 127.98,
     oldPrice: 65,
     sku: "RTA-0058",
-    category: "Clothing",
+    category: "Safety Equipment",
     tag: "business,seo",
     author: {
       img: "/images/team/fl-s-1.png",
@@ -732,7 +732,7 @@ export const shopProduct1 = [
     price: 119.79,
     oldPrice: 65,
     sku: "RTA-0058",
-    category: "Clothing",
+    category: "Building Materials",
     tag: "business,seo",
     author: {
       img: "/images/team/fl-s-1.png",
@@ -759,7 +759,7 @@ export const shopProduct1 = [
     price: 52.99,
     oldPrice: 65,
     sku: "RTA-0058",
-    category: "Clothing",
+    category: "Outdoor and Garden Supplies",
     tag: "business,seo",
     author: {
       img: "/images/team/fl-s-1.png",
@@ -786,7 +786,7 @@ export const shopProduct1 = [
     price: 59.9,
     oldPrice: 65,
     sku: "RTA-0058",
-    category: "Clothing",
+    category: "And More!",
     tag: "business,seo",
     author: {
       img: "/images/team/fl-s-1.png",
@@ -813,7 +813,7 @@ export const shopProduct1 = [
     price: 372.99,
     oldPrice: 65,
     sku: "RTA-0058",
-    category: "Clothing",
+    category: "Power Tools",
     tag: "business,seo",
     author: {
       img: "/images/team/fl-s-1.png",
@@ -840,7 +840,7 @@ export const shopProduct1 = [
     price: 39.99,
     oldPrice: 65,
     sku: "RTA-0058",
-    category: "Clothing",
+    category: "Safety Equipment",
     tag: "business,seo",
     author: {
       img: "/images/team/fl-s-1.png",
@@ -867,7 +867,7 @@ export const shopProduct1 = [
     price: 96.96,
     oldPrice: 65,
     sku: "RTA-0058",
-    category: "Clothing",
+    category: "Building Materials",
     tag: "business,seo",
     author: {
       img: "/images/team/fl-s-1.png",
@@ -921,7 +921,7 @@ export const shopProduct1 = [
     price: 109.99,
     oldPrice: 65,
     sku: "RTA-0058",
-    category: "Clothing",
+    category: "And More!",
     tag: "business,seo",
     author: {
       img: "/images/team/fl-s-1.png",
@@ -948,7 +948,7 @@ export const shopProduct1 = [
     price: 119.89,
     oldPrice: 65,
     sku: "RTA-0058",
-    category: "Clothing",
+    category: "Power Tools",
     tag: "business,seo",
     author: {
       img: "/images/team/fl-s-1.png",
@@ -975,7 +975,7 @@ export const shopProduct1 = [
     price: 289.95,
     oldPrice: 65,
     sku: "RTA-0058",
-    category: "Clothing",
+    category: "Safety Equipment",
     tag: "business,seo",
     author: {
       img: "/images/team/fl-s-1.png",
@@ -1002,7 +1002,7 @@ export const shopProduct1 = [
     price: 197.99,
     oldPrice: 65,
     sku: "RTA-0058",
-    category: "Clothing",
+    category: "Building Materials",
     tag: "business,seo",
     author: {
       img: "/images/team/fl-s-1.png",
@@ -1029,7 +1029,7 @@ export const shopProduct1 = [
     price: 39.99,
     oldPrice: 65,
     sku: "RTA-0058",
-    category: "Clothing",
+    category: "Outdoor and Garden Supplies",
     tag: "business,seo",
     author: {
       img: "/images/team/fl-s-1.png",
@@ -1056,7 +1056,7 @@ export const shopProduct1 = [
     price: 24.78,
     oldPrice: 65,
     sku: "RTA-0058",
-    category: "Clothing",
+    category: "And More!",
     tag: "business,seo",
     author: {
       img: "/images/team/fl-s-1.png",
@@ -1083,7 +1083,7 @@ export const shopProduct1 = [
     price: 39.99,
     oldPrice: 65,
     sku: "RTA-0058",
-    category: "Clothing",
+    category: "Power Tools",
     tag: "business,seo",
     author: {
       img: "/images/team/fl-s-1.png",
@@ -1110,7 +1110,7 @@ export const shopProduct1 = [
     price: 39.99,
     oldPrice: 65,
     sku: "RTA-0058",
-    category: "Clothing",
+    category: "Safety Equipment",
     tag: "business,seo",
     author: {
       img: "/images/team/fl-s-1.png",
@@ -1137,7 +1137,7 @@ export const shopProduct1 = [
     price: 159,
     oldPrice: 65,
     sku: "RTA-0058",
-    category: "Clothing",
+    category: "Building Materials",
     tag: "business,seo",
     author: {
       img: "/images/team/fl-s-1.png",
@@ -1164,7 +1164,7 @@ export const shopProduct1 = [
     price: 169.0,
     oldPrice: 65,
     sku: "RTA-0058",
-    category: "Clothing",
+    category: "Outdoor and Garden Supplies",
     tag: "business,seo",
     author: {
       img: "/images/team/fl-s-1.png",
@@ -1191,7 +1191,7 @@ export const shopProduct1 = [
     price: 149.99,
     oldPrice: 65,
     sku: "RTA-0058",
-    category: "Clothing",
+    category: "And More!",
     tag: "business,seo",
     author: {
       img: "/images/team/fl-s-1.png",
