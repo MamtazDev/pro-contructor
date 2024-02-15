@@ -393,13 +393,14 @@ export const shopProduct1 = [
   {
     id: 1,
     img: "/images/shop/1.png",
-    shortTitle: "Clothing, Glasses, T-Shirts",
+    shortTitle:
+      "DEWALT 20V Max Cordless Drill / Driver Kit, Compact, 1/2-Inch (DCD771C2), Dewalt ",
     title: "Premium Urban Bag - Deluxe KeySmart - Top-rated Key Holders",
-    brandInfo: "Album",
+    brandInfo: "Yellow",
     inStock: 432,
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus nulla faucibus viverra nisl non senectus tortor. Suspendisse pellentesque elementum proin diam.",
-    price: 10000,
+    price: 39.99,
     oldPrice: 60,
     sku: "RTA-0058",
     category: "Clothing",
@@ -419,14 +420,15 @@ export const shopProduct1 = [
   {
     id: 2,
     img: "/images/shop/2.png",
-    shortTitle: "Clothing, Glasses, T-Shirts",
+    shortTitle:
+      "BLACK+DECKER 20V MAX* POWERCONNECT Cordless Drill Kit + 100 pc. Kit (BDC120VA100)",
     title:
       "Urban Explorer Backpack - KeySmart Max - High-Performance Key Holders",
-    brandInfo: "Album",
+    brandInfo: "Orange",
     inStock: 432,
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus nulla faucibus viverra nisl non senectus tortor. Suspendisse pellentesque elementum proin diam.",
-    price: 15000,
+    price: 69.99,
     oldPrice: 75,
     sku: "RTA-0058",
     category: "Electronics",
@@ -446,14 +448,15 @@ export const shopProduct1 = [
   {
     id: 3,
     img: "/images/shop/3.png",
-    shortTitle: "Clothing, Glasses, T-Shirts",
+    shortTitle:
+      "Yetoza Cordless Drill Set, 20V Lithium Ion Power Drill with Battery and Charger, Compact Driver/Drill Kit, 3/8-Inch Keyless Chuck, Variable Speed,22",
     title:
       "New Arrival: Modern Urban Tote - KeySmart Innovator - Sleek Key Holders",
     brandInfo: "Album",
     inStock: 432,
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus nulla faucibus viverra nisl non senectus tortor. Suspendisse pellentesque elementum proin diam.",
-    price: 20000,
+    price: 28.99,
     oldPrice: 55,
     sku: "RTA-0058",
     category: "Home and Kitchen",
@@ -473,14 +476,15 @@ export const shopProduct1 = [
   {
     id: 4,
     img: "/images/shop/4.png",
-    shortTitle: "Clothing, Glasses, T-Shirts",
+    shortTitle:
+      "BLACK+DECKER 20V MAX* POWERCONNECT Cordless Drill Kit + 100 pc. Kit (BDC120VA100),",
     title:
       "Urban Adventure Gear Bag - KeySmart Premium Plus - Elite Key Holders",
-    brandInfo: "Album",
+    brandInfo: "Orange",
     inStock: 432,
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus nulla faucibus viverra nisl non senectus tortor. Suspendisse pellentesque elementum proin diam.",
-    price: 25000,
+    price: 56.99,
     oldPrice: 65,
     sku: "RTA-0058",
     category: "Sports and Outdoors",
@@ -500,13 +504,14 @@ export const shopProduct1 = [
   {
     id: 5,
     img: "/images/shop/5.png",
-    shortTitle: "Clothing, Glasses, T-Shirts",
+    shortTitle:
+      "beyond by BLACK+DECKER Home Tool Kit with 20V MAX Drill/Driver, 83-Piece (BDPK70284C1AEV)",
     title: "Premium Urban Bag - KeySmart Pro - Advanced Key Holders",
     brandInfo: "Album",
     inStock: 432,
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus nulla faucibus viverra nisl non senectus tortor. Suspendisse pellentesque elementum proin diam.",
-    price: 30000,
+    price: 87.43,
     oldPrice: 65,
     sku: "RTA-0058",
     category: "Clothing",
@@ -526,14 +531,15 @@ export const shopProduct1 = [
   {
     id: 6,
     img: "/images/shop/6.png",
-    shortTitle: "Clothing, Glasses, T-Shirts",
+    shortTitle:
+      "BLACK+DECKER 20V MAX Power Tool Combo Kit, 4-Tool Cordless Power Tool Set with 2 Batteries and Charge(BD4KITCDCRL)",
     title:
       "Urban Essentials Backpack - KeySmart Ultimate - Premium Key Holders",
     brandInfo: "Album",
     inStock: 432,
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus nulla faucibus viverra nisl non senectus tortor. Suspendisse pellentesque elementum proin diam.",
-    price: 35000,
+    price: 149.0,
     oldPrice: 65,
     sku: "RTA-0058",
     category: "Electronics",
@@ -553,13 +559,14 @@ export const shopProduct1 = [
   {
     id: 7,
     img: "/images/shop/7.png",
-    shortTitle: "Clothing, Glasses, T-Shirts",
+    shortTitle:
+      "tietoc Mini Cordless Chainsaw, 6 Inch Handheld Chain Saw With Security Lock [Seniors Friendly], Battery Powered Super Saws With Manganese Steel Chain & Automatic Oiler, UPGRADE 2023",
     title: "Modern Urban Tote - KeySmart Innovator - Premium Key Holders",
     brandInfo: "Album",
     inStock: 432,
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus nulla faucibus viverra nisl non senectus tortor. Suspendisse pellentesque elementum proin diam.",
-    price: 40000,
+    price: 79.99,
     oldPrice: 65,
     sku: "RTA-0058",
     category: "Home and Kitchen",
@@ -579,14 +586,15 @@ export const shopProduct1 = [
   {
     id: 8,
     img: "/images/shop/8.png",
-    shortTitle: "Clothing, Glasses, T-Shirts",
+    shortTitle:
+      "Metabo HPT | Compound Miter Saw | 10-Inch | Single Bevel | 15-Amp Motor | 0-52° Miter Angle Range 0-45° Bevel Range | Large Table | 10' 24T TCT Miter Saw Blade | C10FCGS",
     title:
       "Urban Adventure Gear Bag - KeySmart Premium Plus - Top-rated Key Holders",
     brandInfo: "Album",
     inStock: 432,
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus nulla faucibus viverra nisl non senectus tortor. Suspendisse pellentesque elementum proin diam.",
-    price: 45000,
+    price: 119.0,
     oldPrice: 65,
     sku: "RTA-0058",
     category: "Sports and Outdoors",
@@ -606,13 +614,581 @@ export const shopProduct1 = [
   {
     id: 9,
     img: "/images/shop/9.png",
-    shortTitle: "Clothing, Glasses, T-Shirts",
+    shortTitle:
+      'DOVAMAN Circular Saw, 5.8A 4-1/2" Circular Saw w/Laser, Metal Auxiliary Handle, 6 Saw Blades (4½", 4¾" Cutting Depth 1-11/16" (90°), 1-3/8" (45°), Ideal for Wood, Soft Metal, Plastic, Tile - MCS01A',
     title: "Premium Urban Bag - KeySmart Pro - Elite Key Holders",
     brandInfo: "Album",
     inStock: 432,
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus nulla faucibus viverra nisl non senectus tortor. Suspendisse pellentesque elementum proin diam.",
-    price: 50000,
+    price: 79.97,
+    oldPrice: 65,
+    sku: "RTA-0058",
+    category: "Clothing",
+    tag: "business,seo",
+    author: {
+      img: "/images/team/fl-s-1.png",
+      name: "Wanda Runo",
+    },
+    gallery: [
+      "/images/shop/9.png",
+      "/images/shop/shop-single-1.png",
+      "/images/shop/shop-single-1.png",
+      "/images/shop/shop-single-1.png",
+    ],
+    sort: "new-arrivals",
+  },
+  {
+    id: 10,
+    img: "/images/shop/9.png",
+    shortTitle:
+      "Cordless Angle Grinder Brushless, 20V MAX 4.0Ah Battery Powered Angle Grinder, AOTE-PITT 4-1/2 Inch Electric Grinder Power Tools with Handle, Grinding Wheel, Cutting Wheel, Flap Disc and Carving Disc",
+    title: "Premium Urban Bag - KeySmart Pro - Elite Key Holders",
+    brandInfo: "Album",
+    inStock: 432,
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus nulla faucibus viverra nisl non senectus tortor. Suspendisse pellentesque elementum proin diam.",
+    price: 59.97,
+    oldPrice: 65,
+    sku: "RTA-0058",
+    category: "Clothing",
+    tag: "business,seo",
+    author: {
+      img: "/images/team/fl-s-1.png",
+      name: "Wanda Runo",
+    },
+    gallery: [
+      "/images/shop/9.png",
+      "/images/shop/shop-single-1.png",
+      "/images/shop/shop-single-1.png",
+      "/images/shop/shop-single-1.png",
+    ],
+    sort: "new-arrivals",
+  },
+  {
+    id: 11,
+    img: "/images/shop/9.png",
+    shortTitle:
+      'SEESII Cordless Angle Grinder Kit -2x 4.0Ah Batteries, 10,000RPM Brushless Electric Metal Grinder w/ 4-1/2"Cutting Wheels, Flap Wheels, and Wool Carving Wheel for Precision Cutting & Grinding,AG0200S',
+    title: "Premium Urban Bag - KeySmart Pro - Elite Key Holders",
+    brandInfo: "Album",
+    inStock: 432,
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus nulla faucibus viverra nisl non senectus tortor. Suspendisse pellentesque elementum proin diam.",
+    price: 119.99,
+    oldPrice: 65,
+    sku: "RTA-0058",
+    category: "Clothing",
+    tag: "business,seo",
+    author: {
+      img: "/images/team/fl-s-1.png",
+      name: "Wanda Runo",
+    },
+    gallery: [
+      "/images/shop/9.png",
+      "/images/shop/shop-single-1.png",
+      "/images/shop/shop-single-1.png",
+      "/images/shop/shop-single-1.png",
+    ],
+    sort: "new-arrivals",
+  },
+  {
+    id: 12,
+    img: "/images/shop/9.png",
+    shortTitle:
+      "ENEACRO 1-1/4 Inch SDS-Plus 13 Amp Heavy Duty Rotary Hammer Drill, Safety Clutch 4 Functions with Vibration Control Including Grease, Chisels and Drill Bits with Case",
+    title: "Premium Urban Bag - KeySmart Pro - Elite Key Holders",
+    brandInfo: "Album",
+    inStock: 432,
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus nulla faucibus viverra nisl non senectus tortor. Suspendisse pellentesque elementum proin diam.",
+    price: 127.98,
+    oldPrice: 65,
+    sku: "RTA-0058",
+    category: "Clothing",
+    tag: "business,seo",
+    author: {
+      img: "/images/team/fl-s-1.png",
+      name: "Wanda Runo",
+    },
+    gallery: [
+      "/images/shop/9.png",
+      "/images/shop/shop-single-1.png",
+      "/images/shop/shop-single-1.png",
+      "/images/shop/shop-single-1.png",
+    ],
+    sort: "new-arrivals",
+  },
+  {
+    id: 13,
+    img: "/images/shop/9.png",
+    shortTitle:
+      'Berserker 1300W 12 lb. SDS-Max Demolition Jack Hammer, 1-9/16" 11-Amp Small Corded Electric Demo Chipping Hammer for Floor Tile Removal, Concrete Breaker with Carrying Case & 2 Chisels',
+    title: "Premium Urban Bag - KeySmart Pro - Elite Key Holders",
+    brandInfo: "Album",
+    inStock: 432,
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus nulla faucibus viverra nisl non senectus tortor. Suspendisse pellentesque elementum proin diam.",
+    price: 119.79,
+    oldPrice: 65,
+    sku: "RTA-0058",
+    category: "Clothing",
+    tag: "business,seo",
+    author: {
+      img: "/images/team/fl-s-1.png",
+      name: "Wanda Runo",
+    },
+    gallery: [
+      "/images/shop/9.png",
+      "/images/shop/shop-single-1.png",
+      "/images/shop/shop-single-1.png",
+      "/images/shop/shop-single-1.png",
+    ],
+    sort: "new-arrivals",
+  },
+  {
+    id: 14,
+    img: "/images/shop/9.png",
+    shortTitle:
+      "Goyappin 2300W Cement Mixer, Handheld Concrete Mixer for Drill,with 6 Adjustable Speed, Portable Electric Cement Mixer for Mixing Mud,Mortar, Plaster,Cement, Paint, Fodder",
+    title: "Premium Urban Bag - KeySmart Pro - Elite Key Holders",
+    brandInfo: "Album",
+    inStock: 432,
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus nulla faucibus viverra nisl non senectus tortor. Suspendisse pellentesque elementum proin diam.",
+    price: 52.99,
+    oldPrice: 65,
+    sku: "RTA-0058",
+    category: "Clothing",
+    tag: "business,seo",
+    author: {
+      img: "/images/team/fl-s-1.png",
+      name: "Wanda Runo",
+    },
+    gallery: [
+      "/images/shop/9.png",
+      "/images/shop/shop-single-1.png",
+      "/images/shop/shop-single-1.png",
+      "/images/shop/shop-single-1.png",
+    ],
+    sort: "new-arrivals",
+  },
+  {
+    id: 15,
+    img: "/images/shop/9.png",
+    shortTitle:
+      "LDHTHOPI Cement Mixer, 2300W Electric Paint Mixer, Portable Mortar Mixer with 6 Adjustable Speed, 110V Handheld Mud Mixer for Mixing Mud, Cement, Mortar, Paint, Fodder",
+    title: "Premium Urban Bag - KeySmart Pro - Elite Key Holders",
+    brandInfo: "Album",
+    inStock: 432,
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus nulla faucibus viverra nisl non senectus tortor. Suspendisse pellentesque elementum proin diam.",
+    price: 59.9,
+    oldPrice: 65,
+    sku: "RTA-0058",
+    category: "Clothing",
+    tag: "business,seo",
+    author: {
+      img: "/images/team/fl-s-1.png",
+      name: "Wanda Runo",
+    },
+    gallery: [
+      "/images/shop/9.png",
+      "/images/shop/shop-single-1.png",
+      "/images/shop/shop-single-1.png",
+      "/images/shop/shop-single-1.png",
+    ],
+    sort: "new-arrivals",
+  },
+  {
+    id: 16,
+    img: "/images/shop/9.png",
+    shortTitle:
+      "VEVOR Plate Compactor,2.8HP 78.5cc Gas Engine, 5600VPM Force Vibratory Compaction Tamper,1920LBS Compactor with 18.7 x 11.8 in Plate for Walkways,Patios,Asphalts,Paver Landscaping,EPA Compliant",
+    title: "Premium Urban Bag - KeySmart Pro - Elite Key Holders",
+    brandInfo: "Album",
+    inStock: 432,
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus nulla faucibus viverra nisl non senectus tortor. Suspendisse pellentesque elementum proin diam.",
+    price: 372.99,
+    oldPrice: 65,
+    sku: "RTA-0058",
+    category: "Clothing",
+    tag: "business,seo",
+    author: {
+      img: "/images/team/fl-s-1.png",
+      name: "Wanda Runo",
+    },
+    gallery: [
+      "/images/shop/9.png",
+      "/images/shop/shop-single-1.png",
+      "/images/shop/shop-single-1.png",
+      "/images/shop/shop-single-1.png",
+    ],
+    sort: "new-arrivals",
+  },
+  {
+    id: 17,
+    img: "/images/shop/9.png",
+    shortTitle:
+      "SKIL Corded Multi-Function Detail Sander with Micro-Filter Dust Box 3 Additional Attachments & 12pc Sanding SheetSR232301",
+    title: "Premium Urban Bag - KeySmart Pro - Elite Key Holders",
+    brandInfo: "Album",
+    inStock: 432,
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus nulla faucibus viverra nisl non senectus tortor. Suspendisse pellentesque elementum proin diam.",
+    price: 39.99,
+    oldPrice: 65,
+    sku: "RTA-0058",
+    category: "Clothing",
+    tag: "business,seo",
+    author: {
+      img: "/images/team/fl-s-1.png",
+      name: "Wanda Runo",
+    },
+    gallery: [
+      "/images/shop/9.png",
+      "/images/shop/shop-single-1.png",
+      "/images/shop/shop-single-1.png",
+      "/images/shop/shop-single-1.png",
+    ],
+    sort: "new-arrivals",
+  },
+  {
+    id: 18,
+    img: "/images/shop/9.png",
+    shortTitle:
+      "DEWALT 20V MAX Orbital Sander, 12,000 OPM, Brushless Motor for Extra Long Run Time, Bare Tool Only (DCW210B) ",
+    title: "Premium Urban Bag - KeySmart Pro - Elite Key Holders",
+    brandInfo: "Album",
+    inStock: 432,
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus nulla faucibus viverra nisl non senectus tortor. Suspendisse pellentesque elementum proin diam.",
+    price: 96.96,
+    oldPrice: 65,
+    sku: "RTA-0058",
+    category: "Clothing",
+    tag: "business,seo",
+    author: {
+      img: "/images/team/fl-s-1.png",
+      name: "Wanda Runo",
+    },
+    gallery: [
+      "/images/shop/9.png",
+      "/images/shop/shop-single-1.png",
+      "/images/shop/shop-single-1.png",
+      "/images/shop/shop-single-1.png",
+    ],
+    sort: "new-arrivals",
+  },
+  {
+    id: 19,
+    img: "/images/shop/9.png",
+    shortTitle:
+      "DEWALT Palm Sander, 1/4-Inch, 2.3 Amp, 14,000 OPM, Storage Bag Included, Corded (DWE6411K)",
+    title: "Premium Urban Bag - KeySmart Pro - Elite Key Holders",
+    brandInfo: "Yellow",
+    inStock: 432,
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus nulla faucibus viverra nisl non senectus tortor. Suspendisse pellentesque elementum proin diam.",
+    price: 96.96,
+    oldPrice: 65,
+    sku: "RTA-0058",
+    category: "Clothing",
+    tag: "business,seo",
+    author: {
+      img: "/images/team/fl-s-1.png",
+      name: "Wanda Runo",
+    },
+    gallery: [
+      "/images/shop/9.png",
+      "/images/shop/shop-single-1.png",
+      "/images/shop/shop-single-1.png",
+      "/images/shop/shop-single-1.png",
+    ],
+    sort: "new-arrivals",
+  },
+  {
+    id: 20,
+    img: "/images/shop/9.png",
+    shortTitle:
+      "LDHTHOPI Drywall Sander, 1050W Electric Drywall Sander with Vacuum, 500-1800RPM Dustless Wall Sander, 14FT Extendable Hose Ceiling Sander with 20 Sanding Discs for Drywall, Ceiling, Wall, Floor",
+    title: "Premium Urban Bag - KeySmart Pro - Elite Key Holders",
+    brandInfo: "Yellow",
+    inStock: 432,
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus nulla faucibus viverra nisl non senectus tortor. Suspendisse pellentesque elementum proin diam.",
+    price: 109.99,
+    oldPrice: 65,
+    sku: "RTA-0058",
+    category: "Clothing",
+    tag: "business,seo",
+    author: {
+      img: "/images/team/fl-s-1.png",
+      name: "Wanda Runo",
+    },
+    gallery: [
+      "/images/shop/9.png",
+      "/images/shop/shop-single-1.png",
+      "/images/shop/shop-single-1.png",
+      "/images/shop/shop-single-1.png",
+    ],
+    sort: "new-arrivals",
+  },
+  {
+    id: 21,
+    img: "/images/shop/9.png",
+    shortTitle:
+      "Cordless Nail Gun Battery Powered, NEU MASTER Battery Brad Nailer/Staple Gun NTC0023, 20V Max. 2.0Ah Battery and Charger Included for Upholstery, Woodworking and Carpentry",
+    title: "Premium Urban Bag - KeySmart Pro - Elite Key Holders",
+    brandInfo: "Yellow",
+    inStock: 432,
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus nulla faucibus viverra nisl non senectus tortor. Suspendisse pellentesque elementum proin diam.",
+    price: 119.89,
+    oldPrice: 65,
+    sku: "RTA-0058",
+    category: "Clothing",
+    tag: "business,seo",
+    author: {
+      img: "/images/team/fl-s-1.png",
+      name: "Wanda Runo",
+    },
+    gallery: [
+      "/images/shop/9.png",
+      "/images/shop/shop-single-1.png",
+      "/images/shop/shop-single-1.png",
+      "/images/shop/shop-single-1.png",
+    ],
+    sort: "new-arrivals",
+  },
+  {
+    id: 22,
+    img: "/images/shop/9.png",
+    shortTitle:
+      "DEWALT 20V MAX* Cordless Brad Nailer, 18GA, Tool Only (DCN680B) ",
+    title: "Premium Urban Bag - KeySmart Pro - Elite Key Holders",
+    brandInfo: "Yellow",
+    inStock: 432,
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus nulla faucibus viverra nisl non senectus tortor. Suspendisse pellentesque elementum proin diam.",
+    price: 289.95,
+    oldPrice: 65,
+    sku: "RTA-0058",
+    category: "Clothing",
+    tag: "business,seo",
+    author: {
+      img: "/images/team/fl-s-1.png",
+      name: "Wanda Runo",
+    },
+    gallery: [
+      "/images/shop/9.png",
+      "/images/shop/shop-single-1.png",
+      "/images/shop/shop-single-1.png",
+      "/images/shop/shop-single-1.png",
+    ],
+    sort: "new-arrivals",
+  },
+  {
+    id: 23,
+    img: "/images/shop/9.png",
+    shortTitle:
+      "Electric Nail Gun, LINKNAL Cordless Brad Nailer Battery Powered,18 Gauge, 2×20V MAX Li-ion Batteries, Charger and 1000 Nails Included (L820-BN)       ",
+    title: "Premium Urban Bag - KeySmart Pro - Elite Key Holders",
+    brandInfo: "Yellow",
+    inStock: 432,
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus nulla faucibus viverra nisl non senectus tortor. Suspendisse pellentesque elementum proin diam.",
+    price: 197.99,
+    oldPrice: 65,
+    sku: "RTA-0058",
+    category: "Clothing",
+    tag: "business,seo",
+    author: {
+      img: "/images/team/fl-s-1.png",
+      name: "Wanda Runo",
+    },
+    gallery: [
+      "/images/shop/9.png",
+      "/images/shop/shop-single-1.png",
+      "/images/shop/shop-single-1.png",
+      "/images/shop/shop-single-1.png",
+    ],
+    sort: "new-arrivals",
+  },
+  {
+    id: 24,
+    img: "/images/shop/9.png",
+    shortTitle:
+      "PHALANX 8V Cordless Rotary Tool Kit, 2.0 Ah Battery Rechargeable Rotary Tool with 73pcs Accessories, 5-Speed LED Light, Idea for Sanding, Carving, Polishing, Engraving, Wood Carving, Pet Grooming ",
+    title: "Premium Urban Bag - KeySmart Pro - Elite Key Holders",
+    brandInfo: "Yellow",
+    inStock: 432,
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus nulla faucibus viverra nisl non senectus tortor. Suspendisse pellentesque elementum proin diam.",
+    price: 39.99,
+    oldPrice: 65,
+    sku: "RTA-0058",
+    category: "Clothing",
+    tag: "business,seo",
+    author: {
+      img: "/images/team/fl-s-1.png",
+      name: "Wanda Runo",
+    },
+    gallery: [
+      "/images/shop/9.png",
+      "/images/shop/shop-single-1.png",
+      "/images/shop/shop-single-1.png",
+      "/images/shop/shop-single-1.png",
+    ],
+    sort: "new-arrivals",
+  },
+  {
+    id: 25,
+    img: "/images/shop/9.png",
+    shortTitle:
+      "HARDELL Mini Cordless Rotary Tool Kit, 5-Speed and USB Charging with 61 Accessories, Multi-Purpose 3.7V Power Rotary Tool for Sanding, Polishing, Drilling, Etching, Engraving, DIY Crafts",
+    title: "Premium Urban Bag - KeySmart Pro - Elite Key Holders",
+    brandInfo: "Yellow",
+    inStock: 432,
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus nulla faucibus viverra nisl non senectus tortor. Suspendisse pellentesque elementum proin diam.",
+    price: 24.78,
+    oldPrice: 65,
+    sku: "RTA-0058",
+    category: "Clothing",
+    tag: "business,seo",
+    author: {
+      img: "/images/team/fl-s-1.png",
+      name: "Wanda Runo",
+    },
+    gallery: [
+      "/images/shop/9.png",
+      "/images/shop/shop-single-1.png",
+      "/images/shop/shop-single-1.png",
+      "/images/shop/shop-single-1.png",
+    ],
+    sort: "new-arrivals",
+  },
+  {
+    id: 26,
+    img: "/images/shop/9.png",
+    shortTitle:
+      "NEU MASTER 180W Rotary Tool Kit, Corded Power Rotary Tools with 165 Accessories and 6 Variable Speed,10000-35000RPM Electric Drill Set for Handmade Crafting Projects and DIY Creations",
+    title: "Premium Urban Bag - KeySmart Pro - Elite Key Holders",
+    brandInfo: "Yellow",
+    inStock: 432,
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus nulla faucibus viverra nisl non senectus tortor. Suspendisse pellentesque elementum proin diam.",
+    price: 39.99,
+    oldPrice: 65,
+    sku: "RTA-0058",
+    category: "Clothing",
+    tag: "business,seo",
+    author: {
+      img: "/images/team/fl-s-1.png",
+      name: "Wanda Runo",
+    },
+    gallery: [
+      "/images/shop/9.png",
+      "/images/shop/shop-single-1.png",
+      "/images/shop/shop-single-1.png",
+      "/images/shop/shop-single-1.png",
+    ],
+    sort: "new-arrivals",
+  },
+  {
+    id: 27,
+    img: "/images/shop/9.png",
+    shortTitle:
+      "Rotary Tool, Handstar Rotary Tool Kit, 6 Variable Speed Electric Drill Set, Large LED Screen Display, 10000-35000 RPM with Flex Shaft and Carrying Case, for Grinding Carving Polishing etc",
+    title: "Premium Urban Bag - KeySmart Pro - Elite Key Holders",
+    brandInfo: "Yellow",
+    inStock: 432,
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus nulla faucibus viverra nisl non senectus tortor. Suspendisse pellentesque elementum proin diam.",
+    price: 39.99,
+    oldPrice: 65,
+    sku: "RTA-0058",
+    category: "Clothing",
+    tag: "business,seo",
+    author: {
+      img: "/images/team/fl-s-1.png",
+      name: "Wanda Runo",
+    },
+    gallery: [
+      "/images/shop/9.png",
+      "/images/shop/shop-single-1.png",
+      "/images/shop/shop-single-1.png",
+      "/images/shop/shop-single-1.png",
+    ],
+    sort: "new-arrivals",
+  },
+  {
+    id: 28,
+    img: "/images/shop/9.png",
+    shortTitle:
+      "DEWALT Pancake Air Compressor, 6 Gallon, 165 PSI (DWFP55126),Multi",
+    title: "Premium Urban Bag - KeySmart Pro - Elite Key Holders",
+    brandInfo: "Yellow",
+    inStock: 432,
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus nulla faucibus viverra nisl non senectus tortor. Suspendisse pellentesque elementum proin diam.",
+    price: 159,
+    oldPrice: 65,
+    sku: "RTA-0058",
+    category: "Clothing",
+    tag: "business,seo",
+    author: {
+      img: "/images/team/fl-s-1.png",
+      name: "Wanda Runo",
+    },
+    gallery: [
+      "/images/shop/9.png",
+      "/images/shop/shop-single-1.png",
+      "/images/shop/shop-single-1.png",
+      "/images/shop/shop-single-1.png",
+    ],
+    sort: "new-arrivals",
+  },
+  {
+    id: 29,
+    img: "/images/shop/9.png",
+    shortTitle:
+      "Craftsman Air Compressor, 6 Gallon, Pancake, Oil-Free with 13 Piece Accessory Kit (CMEC6150K)",
+    title: "Premium Urban Bag - KeySmart Pro - Elite Key Holders",
+    brandInfo: "Yellow",
+    inStock: 432,
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus nulla faucibus viverra nisl non senectus tortor. Suspendisse pellentesque elementum proin diam.",
+    price: 169.0,
+    oldPrice: 65,
+    sku: "RTA-0058",
+    category: "Clothing",
+    tag: "business,seo",
+    author: {
+      img: "/images/team/fl-s-1.png",
+      name: "Wanda Runo",
+    },
+    gallery: [
+      "/images/shop/9.png",
+      "/images/shop/shop-single-1.png",
+      "/images/shop/shop-single-1.png",
+      "/images/shop/shop-single-1.png",
+    ],
+    sort: "new-arrivals",
+  },
+  {
+    id: 30,
+    img: "/images/shop/9.png",
+    shortTitle:
+      "Limodot Quiet Air Compressor Portable, 70 dB, Silent and Electric for Car and Bike Tires, Nail Gun, and Pneumatic Tools, Garage, Shop, or Mechanic Accessories, 115V",
+    title: "Premium Urban Bag - KeySmart Pro - Elite Key Holders",
+    brandInfo: "Yellow",
+    inStock: 432,
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus nulla faucibus viverra nisl non senectus tortor. Suspendisse pellentesque elementum proin diam.",
+    price: 149.99,
     oldPrice: 65,
     sku: "RTA-0058",
     category: "Clothing",

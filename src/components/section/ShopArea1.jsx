@@ -32,13 +32,13 @@ export default function ShopArea1() {
       : item;
 
   const content = shopProduct1
-    .slice(0, 9)
+    // .slice(0, 9)
     .filter(categoryFilter)
     .filter(salaryFilter)
     .filter(sortByFilter)
     .filter(searchFilter)
-    .map((item,i) => (
-      <div key={ i } className="col-sm-6 col-xl-4">
+    .map((item, i) => (
+      <div key={i} className="col-sm-6 col-xl-4">
         <ShopListCard1 data={item} />
       </div>
     ));
