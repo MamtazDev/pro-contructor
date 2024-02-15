@@ -19,7 +19,7 @@ export default function PopularServiceCard2({ data, text1 = false }) {
             src={data.img2}
             alt="image"
           />
-        </div>
+        </div>vvvvvvvvvvv
         <div className="list-content flex-grow-1 ms-1">
           <a
             onClick={() => setFavActive(!isFavActive)}
