@@ -15,7 +15,10 @@ export default function Footer18() {
               <a className="fz17 fw500 text-white mr15-md mr30" href="#">
                 Terms of Service
               </a>
-              <a href="/privacy-policy"  className="fz17 fw500 text-white mr15-md mr30" href="#">
+              <a
+                href="/privacy-policy"
+                className="fz17 fw500 text-white mr15-md mr30"
+              >
                 Privacy Policy
               </a>
               <a className="fz17 fw500 text-white" href="#">
@@ -32,8 +35,8 @@ export default function Footer18() {
             <div className="link-style1 mb-4 mb-sm-5">
               <h5 className="text-white mb15">About</h5>
               <div className="link-list">
-                {about.map((item,i) => (
-                  <Link key={ i } href={item.path}>
+                {about.map((item, i) => (
+                  <Link key={i} href={item.path}>
                     {item.name}
                   </Link>
                 ))}
@@ -44,8 +47,8 @@ export default function Footer18() {
             <div className="link-style1 mb-4 mb-sm-5">
               <h5 className="text-white mb15">Categories</h5>
               <ul className="ps-0">
-                {category.map((item,i) => (
-                  <li key={ i }>
+                {category.map((item, i) => (
+                  <li key={i}>
                     <Link href={item.path}>{item.name}</Link>
                   </li>
                 ))}
@@ -56,8 +59,8 @@ export default function Footer18() {
             <div className="link-style1 mb-4 mb-sm-5">
               <h5 className="text-white mb15">Support</h5>
               <ul className="ps-0">
-                {support.map((item,i) => (
-                  <li key={ i }>
+                {support.map((item, i) => (
+                  <li key={i}>
                     <Link href={item.path}>{item.name}</Link>
                   </li>
                 ))}
