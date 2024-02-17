@@ -44,6 +44,7 @@ import Footer14 from "@/components/footer/Footer14";
 import Footer15 from "@/components/footer/Footer15";
 import Footer18 from "@/components/footer/Footer18";
 import Footer20 from "@/components/footer/Footer20";
+import CustomHeader from "@/components/header/CustomHeader";
 
 if (typeof window !== "undefined") {
   import("bootstrap");
@@ -83,7 +84,7 @@ export default function RootLayout({ children }) {
       >
         {!footer.includes(path) ? (
           <div className="wrapper ovh mm-page mm-slideout">
-            {header1.find(
+            {/* {header1.find(
               (elm) => elm?.split("/")[1] == path?.split("/")[1]
             ) && <Header1 />}
             {header2.find(
@@ -115,7 +116,9 @@ export default function RootLayout({ children }) {
             ) && <Header10 />}
             {header11.find(
               (elm) => elm?.split("/")[1] == path?.split("/")[1]
-            ) && <Header11 />}
+            ) && <Header11 />} */}
+
+            <CustomHeader />
 
             <SearchModal1 />
 

@@ -75,7 +75,7 @@ export default function Hero1() {
                           <Image
                             height={4000}
                             width={4000}
-                            src={item}
+                            src="/images/home/banner.jpg"
                             className="ui-hero-slide__img"
                             alt="Hero Banner"
                           />
@@ -178,10 +178,15 @@ export default function Hero1() {
                     <p className="hero-text fz15 me-2 text-white mb-0">
                       Popular Searches
                     </p>
-                    {popular.map((elm,i)=><a key={i} className="text-white" style={{marginRight:'5px'}} >
-                          {`${elm}${(i != (popular.length -1)) ? ',':' '}`}
-                        </a>)}
-                   
+                    {popular.map((elm, i) => (
+                      <a
+                        key={i}
+                        className="text-white"
+                        style={{ marginRight: "5px" }}
+                      >
+                        {`${elm}${i != popular.length - 1 ? "," : " "}`}
+                      </a>
+                    ))}
                   </div>
                 </div>
               </div>

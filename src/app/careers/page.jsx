@@ -1,5 +1,4 @@
 import Breadcumb1 from "@/components/breadcumb/Breadcumb1";
-import Header12 from "@/components/header/Header12";
 import React from "react";
 export const metadata = {
   title:
@@ -8,7 +7,6 @@ export const metadata = {
 const page = () => {
   return (
     <div>
-      <Header12 />
       <Breadcumb1
         title={"Careers"}
         brief={`Join Our Team at ProContractorsPlus.com`}

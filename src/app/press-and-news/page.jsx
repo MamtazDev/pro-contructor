@@ -1,11 +1,11 @@
 import Breadcumb1 from "@/components/breadcumb/Breadcumb1";
+import CustomHeader from "@/components/header/CustomHeader";
 import Header12 from "@/components/header/Header12";
 import React from "react";
 
 const page = () => {
   return (
     <div>
-      <Header12 />
       <Breadcumb1
         title={"Press & News"}
         brief={`Stay Informed with ProContractorsPlus.com Press & News`}

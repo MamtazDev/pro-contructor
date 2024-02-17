@@ -8,7 +8,6 @@ export const metadata = {
 const page = () => {
   return (
     <div>
-      <Header12 />
       <Breadcumb1
         title={"Trust & Safety"}
         brief={`Building Trust and Ensuring Safety on ProContractorsPlus.com`}

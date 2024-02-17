@@ -33,8 +33,8 @@ export default function ShopCartArea1() {
                     </tr>
                   </thead>
                   <tbody className="table_body">
-                    {products.map((item,i) => (
-                      <CartList1 key={ i } data={item} />
+                    {products.map((item, i) => (
+                      <CartList1 key={i} data={item} />
                     ))}
                   </tbody>
                 </table>
@@ -54,7 +54,8 @@ export default function ShopCartArea1() {
                       </div>
                       <div className="btn-lsit1">
                         <Link
-                          href="/shop-list"
+                          target="_blank"
+                          href="https://www.amazon.com/b?_encoding=UTF8&tag=procontract0e-20&linkCode=ur2&linkId=453736b24738d4e343fcf4f2296f6773&camp=1789&creative=9325&node=328182011"
                           className="ud-btn btn-light-thm"
                         >
                           Buy Product
@@ -65,7 +66,11 @@ export default function ShopCartArea1() {
                   </div>
                 ) : (
                   <div className="d-flex justify-content-center pt-5 mb30">
-                    <Link href="/shop-list" className="ud-btn btn-light-thm">
+                    <Link
+                      target="_blank"
+                      href="https://www.amazon.com/b?_encoding=UTF8&tag=procontract0e-20&linkCode=ur2&linkId=453736b24738d4e343fcf4f2296f6773&camp=1789&creative=9325&node=328182011"
+                      className="ud-btn btn-light-thm"
+                    >
                       Buy Product
                       <i className="fal fa-arrow-right-long" />
                     </Link>

@@ -1,4 +1,3 @@
-
 import Header12 from "@/components/header/Header12";
 import Hero11 from "@/components/hero/Hero11";
 import BrowserCategory11 from "@/components/section/BrowserCategory11";
@@ -18,8 +17,7 @@ export const metadata = {
 export default function page() {
   return (
     <>
-    
-      <Header12 />
+      {/* <Header12 /> */}
       <Hero11 />
       <OurFunFact11 />
       <PopulerService11 />

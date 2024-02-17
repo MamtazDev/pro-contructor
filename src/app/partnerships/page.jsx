@@ -1,11 +1,9 @@
 import Breadcumb1 from "@/components/breadcumb/Breadcumb1";
-import Header12 from "@/components/header/Header12";
 import React from "react";
 
 const page = () => {
   return (
     <div>
-      <Header12 />
       <Breadcumb1
         title={"Partnerships"}
         brief={`Forge Collaborative Partnerships with ProContractorsPlus.com`}

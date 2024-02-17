@@ -3,16 +3,15 @@ import { usePathname } from "next/navigation";
 import { useState } from "react";
 
 const categories = [
-  "All Categories",
-  "Graphics Design",
-  "Digital Marketing",
-  "Writing Translation",
-  "Video Animation",
-  "Music Audio",
-  "Programming Tech",
-  "Business",
-  "Lifestyle",
-  "Trending",
+  "Home Renovations",
+  "Landscaping & Outdoor Services",
+  "Plumbing & HVAC",
+  "Electrical Services",
+  "Roofing & Exterior Services",
+  "Painting Services",
+  "Commercial Construction",
+  "Commercial Construction",
+  "General Maintenance & Repairs",
 ];
 
 // categories_list_section overflow-hidden
