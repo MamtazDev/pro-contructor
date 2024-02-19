@@ -120,7 +120,9 @@ export default function PopularServiceSlideCard1({
                 />
                 <span className="online-badge" />
               </span>
-              <span className="fz14">{data.author.name}</span>
+              <Link target="_blank" href="www.mk4looringsolutions.com" className="fz14">
+                {data.author.name}
+              </Link>
             </a>
             <div className="budget">
               <p className="mb-0 body-color">

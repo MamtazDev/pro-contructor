@@ -75,7 +75,7 @@ export default function TrendingServiceCard1({ data }) {
                 />
                 <span className="online-badges" />
               </span>
-              <span className="fz14">{data.author.name}</span>
+              <Link target="_blank" href="https://www.mk4looringsolutions.com/" className="fz14">{data.author.name}</Link>
             </a>
             <div className="budget">
               <p className="mb-0 body-color">
