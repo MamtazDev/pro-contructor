@@ -1,4 +1,3 @@
-
 import Hero6 from "@/components/hero/Hero6";
 import BrowserCategory5 from "@/components/section/BrowserCategory5";
 import CounterInfo1 from "@/components/section/CounterInfo1";
@@ -12,13 +11,12 @@ import Testimonial1 from "@/components/section/Testimonial1";
 import TrendingService4 from "@/components/section/TrendingService4";
 
 export const metadata = {
-  title: "Freeio - Freelance Marketplace React/Next Js Template | Home 6",
+  title: "Pro Contractors Plus",
 };
 
 export default function page() {
   return (
     <>
-    
       <Hero6 />
       <NeedSomething4 />
       <BrowserCategory5 />

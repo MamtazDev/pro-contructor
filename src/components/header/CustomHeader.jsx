@@ -37,33 +37,36 @@ const CustomHeader = () => {
                   Categories
                 </a>
                 <div className="category_child">
-                  <p>Home Renovations</p>
-                  <p>Landscaping & Outdoor Services</p>
-                  <p>Plumbing & HVAC</p>
-                  <p>Electrical Services</p>
-                  <p>Roofing & Exterior Services</p>
-                  <p>Painting Services</p>
-                  <p>Commercial Construction</p>
-                  <p>General Maintenance & Repairs</p>
+                  <Link href="/service-1">Home Renovations</Link>
+                  <Link href="/service-1">Landscaping & Outdoor Services</Link>
+                  <Link href="/service-1">Plumbing & HVAC</Link>
+                  <Link href="/service-1">Electrical Services</Link>
+                  <Link href="/service-1">Roofing & Exterior Services</Link>
+                  <Link href="/service-1">Painting Services</Link>
+                  <Link href="/service-1">Commercial Construction</Link>
+                  <Link href="/service-1">General Maintenance & Repairs</Link>
                 </div>
               </li>
               <li class="nav-item">
                 <Link href="/">Home</Link>
               </li>
               <li class="nav-item">
-                <Link href="/service-1">service</Link>
+                <Link href="/service-1">Service</Link>
               </li>
               <li class="nav-item">
-                <Link href="/about-1">about</Link>
+                <Link href="/about-1">About</Link>
               </li>
               <li class="nav-item">
-                <Link href="/shop-list">shop</Link>
+                <Link href="/shop-list">Shop</Link>
               </li>
               <li class="nav-item">
-                <Link href="/blog-single">blog</Link>
+                <Link href="/blog-single">Blog</Link>
               </li>
               <li class="nav-item">
-                <Link href="/contact">contact</Link>
+                <Link href="/faq">Faq</Link>
+              </li>
+              <li class="nav-item">
+                <Link href="/contact">Contact</Link>
               </li>
             </ul>
             <form class="d-flex" role="search">
