@@ -7,6 +7,8 @@ import ShopAreaSidebar1 from "../sidebar/ShopAreaSidebar1";
 import Pagination1 from "./Pagination1";
 import priceStore from "@/store/priceStore";
 import listingStore from "@/store/listingStore";
+import CustomPagination from "./CustomPagination";
+import { useState } from "react";
 
 export default function ShopArea1() {
   const getCategory = listingStore((state) => state.getCategory);
@@ -30,9 +32,10 @@ export default function ShopArea1() {
     getSearch !== ""
       ? item.title.toLowerCase().includes(getSearch.toLowerCase())
       : item;
-
+  const [currentPage, setCurrentPage] = useState(1);
+  const productsPerPage = 9;
   const content = shopProduct1
-    // .slice(0, 9)
+    .slice((currentPage - 1) * productsPerPage, currentPage * productsPerPage)
     .filter(categoryFilter)
     .filter(salaryFilter)
     .filter(sortByFilter)
@@ -42,6 +45,10 @@ export default function ShopArea1() {
         <ShopListCard1 data={item} />
       </div>
     ));
+
+  const handlePageChange = (page) => {
+    setCurrentPage(page);
+  };
 
   return (
     <>
@@ -53,8 +60,13 @@ export default function ShopArea1() {
             </div>
             <div className="col-lg-9">
               <ShopListInfo1 length={content?.length} />
-              <div className="row">{content}</div>
-              <Pagination1 />
+              <div className="row g-4">{content}</div>
+              {/* <Pagination1 /> */}
+              <CustomPagination
+                totalProducts={shopProduct1.length}
+                productsPerPage={productsPerPage}
+                onPageChange={handlePageChange}
+              />
             </div>
           </div>
         </div>

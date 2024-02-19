@@ -20,7 +20,7 @@ export default function ShopListCard1({ data }) {
 
   return (
     <>
-      <div className="shop-item text-center">
+      <div className="shop-item text-center h-100">
         <div className="thumb">
           <Link href={`/shop-single/${data.id}`}>
             <Image
