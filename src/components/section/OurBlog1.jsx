@@ -36,7 +36,7 @@ export default function OurBlog1() {
             )}
           </div>
           <div className="row wow fadeInUp" data-wow-delay="300ms">
-            {blog1.slice(0, 4).map((item,i) => (
+            {blog1.slice(0, 1).map((item,i) => (
               <div key={ i } className="col-sm-6 col-xl-3">
                 <BlogCard1
                   data={item}

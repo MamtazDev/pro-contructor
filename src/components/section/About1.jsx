@@ -31,7 +31,7 @@ export default function About1() {
                     height={574}
                     width={691}
                     className="w100 object-fit-contain"
-                    src="/images/about/about-1.png"
+                    src="/images/ICONS/Pro Contractors Plus.png"
                     alt="object"
                   />
                 </div>
@@ -52,7 +52,7 @@ export default function About1() {
                 data-wow-delay="300ms"
               >
                 <h2 className="text-white mb35">
-                  Join World's Best Marketplace{" "}
+                  Join World's Best Marketplace{" "} 
                   <br className="d-none d-lg-block" /> for Workers
                 </h2>
                 <p className="text text-white mb35">

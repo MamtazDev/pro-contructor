@@ -40,13 +40,7 @@ export default function OurCta1() {
                   height={489}
                   width={596}
                   className="w-100 h-100 object-fit-contain"
-                  src={
-                    path === "/" || path === "/about-1"
-                      ? "/images/about/about-3.png"
-                      : path === "/home-3" || path === "/home-10"
-                      ? "/images/about/about-5.png"
-                      : ""
-                  }
+                  src="/images/logo.png"
                   alt="woman"
                 />
               </div>

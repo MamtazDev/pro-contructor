@@ -14,7 +14,7 @@ export default function page() {
     
       <Breadcumb3 path={["Home", "Services", "Design & Creative"]} />
       <BlogArea4 />
-      <RecentPostArea1 />
+      {/* <RecentPostArea1 /> */}
     </>
   );
 }

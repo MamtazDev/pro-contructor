@@ -63,7 +63,7 @@ export default function Testimonial1() {
                                 width={70}
                                 src={item.image}
                                 alt="user"
-                                className="h-auto w-100 rounded-circle"
+                                className=" rounded-circle"
                               />
                             </button>
                           </li>

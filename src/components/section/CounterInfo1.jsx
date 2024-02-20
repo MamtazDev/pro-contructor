@@ -19,17 +19,17 @@ export default function CounterInfo1(notBorder) {
                       <div className="timer">
                         <CountUp
                           decimals={1}
-                          end={834}
+                          end={100}
                           duration={2.75}
                           enableScrollSpy
                         />
                       </div>
                     </li>
                     <li>
-                      <span>M</span>
+                      <span>+</span>
                     </li>
                   </ul>
-                  <p className="text mb-0">Total Freelancer</p>
+                  <p className="text mb-0">Total contractors</p>
                 </div>
               </div>
             </div>
@@ -41,17 +41,17 @@ export default function CounterInfo1(notBorder) {
                       <div className="timer">
                         <CountUp
                           decimals={1}
-                          end={732}
+                          end={200}
                           duration={2.75}
                           enableScrollSpy
                         />
                       </div>
                     </li>
                     <li>
-                      <span>M</span>
+                      <span>+</span>
                     </li>
                   </ul>
-                  <p className="text mb-0">Positive Review</p>
+                  <p className="text mb-0">Positive reviews</p>
                 </div>
               </div>
             </div>
@@ -63,17 +63,17 @@ export default function CounterInfo1(notBorder) {
                       <div className="timer">
                         <CountUp
                           decimals={1}
-                          end={90}
+                          end={2000}
                           duration={2.75}
                           enableScrollSpy
                         />
                       </div>
                     </li>
                     <li>
-                      <span>M</span>
+                      <span>+</span>
                     </li>
                   </ul>
-                  <p className="text mb-0">Order recieved</p>
+                  <p className="text mb-0">Orders received</p>
                 </div>
               </div>
             </div>
@@ -85,14 +85,14 @@ export default function CounterInfo1(notBorder) {
                       <div className="timer">
                         <CountUp
                           decimals={1}
-                          end={236}
+                          end={1000}
                           duration={2.75}
                           enableScrollSpy
                         />
                       </div>
                     </li>
                     <li>
-                      <span>M</span>
+                      <span>+</span>
                     </li>
                   </ul>
                   <p className="text mb-0">Projects Completed</p>

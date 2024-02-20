@@ -1,9 +1,9 @@
 export const blog1 = [
   {
     id: 1,
-    img: "/images/blog/blog-1.jpg",
+    img: "/images/ICONS/hammer.jpg",
     date: "December 2, 2022",
-    title: "Start an online business and work from home",
+    title: "ElevatingyourProject with Professionals Excellence",
     brief: "A complete guide to starting a small business online",
     description:
       "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy.",

@@ -66,7 +66,7 @@ export default function BlogArea4() {
               <div className="large-thumb">
                 {blogSingle ? (
                   <Image
-                    height={530}
+                    height={30}
                     width={1501}
                     className="w-100 h-auto bdrs16 object-fit-cover"
                     src={blogSingle.img}
@@ -81,7 +81,7 @@ export default function BlogArea4() {
                     height={530}
                     width={1501}
                     className="w-100 h-100 bdrs16 object-fit-conver"
-                    src="/images/blog/blog-single-1.jpg"
+                    src="/images/ICONS/hammer.jpg"
                     alt="single blog"
                   />
                 )}
@@ -93,200 +93,106 @@ export default function BlogArea4() {
           <div className="roww wow fadeInUp" data-wow-delay="500ms">
             <div className="col-xl-8 offset-xl-2">
               <div className="ui-content mt45 mb60">
-                <h5 className="mb20">
-                  Bringing the culture of sharing to everyone
-                </h5>
+                <h5 className="mb20">Introduction:</h5>
                 <p className="mb25 ff-heading text">
                   <p className="text">
-                    Explore our blog for the latest trends, tips, and
-                    inspiration in the world of home improvement, renovation,
-                    and contracting. Whether you're a DIY enthusiast or looking
-                    for professional insights, our blog has something for
-                    everyone.
+                    When it comes to home improvement or construction projects,
+                    the choice of a contractor can make all the difference.
+                    Enter "Pro Contractors Plus," a company that stands out in
+                    the industry for its commitment to professional excellence
+                    and client satisfaction. In this blog, we'll explore what
+                    makes Pro Contractors Plus a top choice for those seeking
+                    high-quality construction services.
                   </p>
                 </p>
-                <p className="ff-heading text">
-                  Duis mattis laoreet neque, et ornare neque sollicitudin at.
-                  Proin sagittis dolor sed mi elementum pretium. Donec et justo
-                  ante. Vivamus egestas sodales est, eu rhoncus urna semper eu.
-                  Cum sociis natoque penatibus et magnis dis parturient montes,
-                  nascetur ridiculus mus. Integer tristique elit lobortis purus
-                  bibendum, quis dictum metus mattis. Phasellus posuere felis
-                  sed eros porttitor mattis. Curabitur massa magna, tempor in
-                  blandit id, porta in ligula. Aliquam laoreet nisl massa, at
-                  interdum mauris sollicitudin et.
+                <h5 className="mb20">Professional Expertise:</h5>
+                <p className="mb25 ff-heading text">
+                  <p className="text">
+                    Pro Contractors Plus takes pride in its team of seasoned
+                    professionals who bring a wealth of experience to every
+                    project. From general contractors to specialized experts in
+                    various fields such as electrical, plumbing, and
+                    landscaping, the company ensures that clients receive
+                    top-notch service tailored to their specific needs.
+                  </p>
+                </p>
+                <h5 className="mb20">Quality Craftsmanship:</h5>
+                <p className="mb25 ff-heading text">
+                  <p className="text">
+                    One of the key pillars of Pro Contractors Plus is its
+                    dedication to delivering exceptional craftsmanship. Whether
+                    it's a home renovation, a commercial build, or a landscaping
+                    project, the team prioritizes quality at every step. From
+                    the selection of materials to the finishing touches, clients
+                    can trust that their vision will be brought to life with
+                    precision and care.
+                  </p>
+                </p>
+                <h5 className="mb20">Comprehensive Services:</h5>
+                <p className="mb25 ff-heading text">
+                  <p className="text">
+                    Pro Contractors Plus doesn't just stop at basic construction
+                    services; they offer a comprehensive range of solutions to
+                    meet diverse project requirements. This includes everything
+                    from initial consultation and planning to the execution of
+                    the project and post-construction support. The goal is to
+                    provide clients with a seamless and stress-free experience
+                    from start to finish.
+                  </p>
+                </p>
+                <h5 className="mb20">Client-Centric Approach:</h5>
+                <p className="mb25 ff-heading text">
+                  <p className="text">
+                    What sets Pro Contractors Plus apart is its client-centric
+                    approach. The company understands that each project is
+                    unique, and they prioritize open communication and
+                    collaboration with clients. This ensures that the client's
+                    vision is understood and incorporated into every aspect of
+                    the project. Regular updates and transparent processes
+                    contribute to a positive client experience.
+                  </p>
+                </p>
+                <h5 className="mb20">Innovation and Technology:</h5>
+                <p className="mb25 ff-heading text">
+                  <p className="text">
+                    Pro Contractors Plus stays at the forefront of industry
+                    trends by embracing innovation and technology. Utilizing
+                    cutting-edge tools and techniques, they enhance the
+                    efficiency and effectiveness of their services. This
+                    commitment to staying current ensures that clients benefit
+                    from the latest advancements in construction and design.
+                  </p>
+                </p>
+                <h5 className="mb20">Positive Testimonials:</h5>
+                <p className="mb25 ff-heading text">
+                  <p className="text">
+                    The success of Pro Contractors Plus is reflected in the
+                    glowing testimonials from satisfied clients. These
+                    testimonials speak volumes about the company's reliability,
+                    professionalism, and the ability to exceed client
+                    expectations. Hearing from those who have experienced the
+                    excellence of Pro Contractors Plus firsthand provides
+                    prospective clients with confidence in their choice.
+                  </p>
+                </p>
+                <h5 className="mb20">Conclusion:</h5>
+                <p className="mb25 ff-heading text">
+                  <p className="text">
+                    Pro Contractors Plus is more than just a construction
+                    company; it's a partner in turning visions into reality.
+                    With a team of skilled professionals, a commitment to
+                    quality, and a client-centric approach, Pro Contractors Plus
+                    has earned its reputation as a trusted name in the industry.
+                    Whether you're embarking on a home renovation or a
+                    commercial project, choosing Pro Contractors Plus means
+                    choosing a partner dedicated to bringing your ideas to life
+                    with unparalleled excellence.
+                  </p>
                 </p>
               </div>
-              <div className="blockquote-style1 mb60">
-                <blockquote className="blockquote">
-                  <p className="fst-italic fz15 fw500 ff-heading dark-color">
-                    Aliquam hendrerit sollicitudin purus, quis rutrum mi
-                    accumsan nec. Quisque bibendum orci ac nibh facilisis, at
-                    malesuada orci congue.
-                  </p>
-                  <h5 className="quote-title">Luis Pickford</h5>
-                </blockquote>
-              </div>
-              <div className="ui-content">
-                <h4 className="title mb25">Recent Blog Posts:</h4>
-              </div>
-              <div className="row">
-                <div className="col-auto">
-                  <div className="ui-content">
-                    <div className="list-style1">
-                      <ul>
-                        <li>
-                          <i className="far fa-check text-thm3 bgc-thm3-light" />
-                          Top Trends in Home Design for 2024
-                        </li>
-                        <li>
-                          <i className="far fa-check text-thm3 bgc-thm3-light" />
-                          DIY Tips for a Budget-Friendly Kitchen Renovation
-                        </li>
-                        <li>
-                          <i className="far fa-check text-thm3 bgc-thm3-light" />
-                          Choosing the Right Flooring Material for Your Home
-                        </li>
-                      </ul>
-                      <p>
-                        Read, learn, and get inspired with
-                        ProContractorsPlus.com!
-                      </p>
-                    </div>
-                  </div>
-                </div>
-                {/* <div className="col-auto ms-xl-5">
-                  <div className="ui-content">
-                    <div className="list-style1">
-                      <ul>
-                        <li>
-                          <i className="far fa-check text-thm3 bgc-thm3-light" />
-                          Build &amp; test a complete mobile app.
-                        </li>
-                        <li>
-                          <i className="far fa-check text-thm3 bgc-thm3-light" />
-                          Learn to design mobile apps &amp; websites.
-                        </li>
-                        <li>
-                          <i className="far fa-check text-thm3 bgc-thm3-light" />
-                          Design 3 different logos.
-                        </li>
-                        <li>
-                          <i className="far fa-check text-thm3 bgc-thm3-light" />
-                          Create low-fidelity wireframe.
-                        </li>
-                        <li>
-                          <i className="far fa-check text-thm3 bgc-thm3-light" />
-                          Downloadable exercise files.
-                        </li>
-                      </ul>
-                    </div>
-                  </div>
-                </div> */}
-              </div>
-              <div className="col-lg-12 mt40">
-                <Image
-                  height={456}
-                  width={937}
-                  src="/images/blog/blog-single-2.jpg"
-                  alt="blog-single"
-                  className="bdrs4 post-img-2 w-100 h-100 object-fit-contain"
-                />
-              </div>
-              <div className="ui-content mt40 mb30">
-                <h4 className="mb20">Requirements</h4>
-                <div className="custom_bsp_grid">
-                  <ul className="list-style-type-bullet p-0 ml20">
-                    <li>
-                      We do not require any previous experience or pre-defined
-                      skills to take this course. A great orientation
-                      <br className="d-none d-lg-block" />
-                      would be enough to master UI/UX design.
-                    </li>
-                    <li>A computer with a good internet connection.</li>
-                    <li>Adobe Photoshop (OPTIONAL)</li>
-                  </ul>
-                </div>
-              </div>
-              <div className="bdrt1 bdrb1 d-block d-sm-flex justify-content-between pt50 pt30-sm pb50 pb30-sm">
-                <div className="blog_post_share d-flex align-items-center mb10-sm">
-                  <span className="me-2">Share this post</span>
-                  <a>
-                    <i className="fab fa-facebook-f" />
-                  </a>
-                  <a>
-                    <i className="fab fa-twitter" />
-                  </a>
-                  <a>
-                    <i className="fab fa-instagram" />
-                  </a>
-                  <a>
-                    <i className="fab fa-linkedin-in" />
-                  </a>
-                </div>
-                <div className="bsp_tags d-flex">
-                  <a className="mr10">Figma</a>
-                  <a className="mr10">Sketch</a>
-                  <a>HTML5</a>
-                </div>
-              </div>
-              <div className="bsp_comments bdrb1 d-block d-sm-flex justify-content-between pt30 pb45 pb30-sm">
-                <div className="mbp_first d-flex">
-                  <div className="flex-shrink-0">
-                    <Image
-                      height={70}
-                      width={70}
-                      src="/images/blog/comments-1.png"
-                      className="mr-3"
-                      alt="comments-1.png"
-                    />
-                  </div>
-                  <div className="flex-grow-1 ml30">
-                    <h5 className="mb0">Brooklyn Simmons</h5>
-                    <div className="text fz14 mb20">Medical Assistant</div>
-                    <p className="text">
-                      Etiam vitae leo et diam pellentesque porta. Sed eleifend
-                      ultricies risus, vel rutrum erat commodo ut. Praesent
-                      finibus congue euismod. Nullam scelerisque massa vel augue
-                      placerat, a tempor sem egestas. ,
-                      <br />
-                      Curabitur placerat finibus lacus.
-                    </p>
-                  </div>
-                </div>
-              </div>
-              <div className="mbp_pagination_tab bdrb1">
-                <div className="row justify-content-between pt45 pt30-sm pb45 pb30-sm">
-                  <div className="col-md-6">
-                    <div className="pag_prev">
-                      <a>
-                        <h5>
-                          <span className="fas fa-chevron-left pe-2" />
-                          Previous Post
-                        </h5>
-                        <p className="fz14 text mb-0">
-                          Given Set was without from god divide rule Hath
-                        </p>
-                      </a>
-                    </div>
-                  </div>
-                  <div className="col-md-6">
-                    <div className="pag_next">
-                      <a className="text-end">
-                        <h5>
-                          Next Post
-                          <span className="fas fa-chevron-right ps-2" />
-                        </h5>
-                        <p className="fz14 text mb-0">
-                          Tree earth fowl given moveth deep lesser After
-                        </p>
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <Comment1 />
-              <ReviewForm1 />
+
+              {/* <Comment1 /> */}
+              {/* <ReviewForm1 /> */}
             </div>
           </div>
         </div>

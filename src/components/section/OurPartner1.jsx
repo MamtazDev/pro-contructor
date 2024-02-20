@@ -3,12 +3,12 @@ import Image from "next/image";
 import { usePathname } from "next/navigation";
 
 const partners = [
-  "/images/partners/1.png",
-  "/images/partners/2.png",
-  "/images/partners/3.png",
-  "/images/partners/4.png",
-  "/images/partners/5.png",
-  "/images/partners/6.png",
+  "/images/ICONS/logo111.png",
+  "/images/ICONS/Pro Contractors Plus.png",
+  "/images/ICONS/tes1.webp",
+  "/images/ICONS/tes2.png",
+  "/images/ICONS/tes3.png",
+  "/images/ICONS/tes5.webp",
 ];
 
 export default function OurPartner1() {

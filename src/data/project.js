@@ -11,7 +11,7 @@ export const browserCategory = [
     id: 2,
     icon: "flaticon-web-design-1",
     skill: 1.853,
-    title: "Conncret",
+    title: "Concret",
     brif: "Software Engineer, Web / Mobile Developer & More",
     img: "/images/ICONS/conncret.png",
   },
@@ -35,7 +35,7 @@ export const browserCategory = [
     id: 5,
     icon: "flaticon-microphone",
     skill: 1.853,
-    title: "Floorinng",
+    title: "Flooring",
     brif: "Software Engineer, Web / Mobile Developer & More",
     img: "/images/ICONS/floorinng.png",
   },
@@ -237,42 +237,42 @@ export const testimonial = [
   {
     id: 1,
     title:
-      "Our family embarked on a remarkable bullet train journey in Japan - this hotel's convenient location made it a breeze. Agoda's pricing was fantastic.",
+      "Pro Contactors Plus exceeded my expectations with its exceptional efficiency. The platform streamlines communication and project management effortlessly, allowing contractors to focus on their work rather than getting bogged down by administrative tasks. The intuitive interface and robust features make it a must-have tool for any professional contractor.",
     name: "Emma Johnson",
-    company: "Product Manager, Apple Inc",
-    image: "/images/testimonials/testi-1.png",
+    company: "Scotia First Class Flooring    ",
+    image: "/images/ICONS/tes1.webp",
   },
   {
     id: 2,
     title:
-      "A Memorable Bullet Train Adventure: Our family's Japan travel experience made easy by this hotel. Agoda's pricing exceeded our expectations.",
+      " Pro Contactors Plus truly stands out in its ability to facilitate seamless  Collaboration: Pro Contactors Plus truly stands out in its ability to facilitate seamless collaboration among team members. The real-time communication features, combined with project tracking and file sharing, make it easy for everyone involved to stay on the same page. It has become an indispensable tool for improving teamwork and project outcomes",
     name: "Olivia Smith",
-    company: "Travel Blogger",
-    image: "/images/testimonials/testi-2.png",
+    company: "Paterson group",
+    image: "/images/ICONS/tes2.png",
   },
   {
     id: 3,
     title:
-      "Unforgettable Japan Journey: Our family traveled by bullet train, and the hotel's strategic location enhanced our experience. Agoda's pricing was a pleasant surprise.",
+      "Time-Saving Automation:The automation features in Pro Contactors Plus have significantly reduced the time I spend on repetitive tasks. From invoicing to scheduling, the platform automates many essential processes, allowing me to focus on more critical aspects of my projects. It's a game-changer for those looking to maximize productivity and minimize administrative headaches.",
     name: "Sophia Ramirez",
-    company: "Software Engineer",
-    image: "/images/testimonials/testi-3.png",
+    company: "I&J Flooring",
+    image: "/images/ICONS/tes3.png",
   },
   {
     id: 4,
     title:
-      "A Wonderful Bullet Train Voyage: Our family explored Japan with ease from this hotel's ideal spot. Agoda's pricing made our trip even better.",
+      "Robust Financial Management: Pro Contactors Plus excels in financial management for contractors. The platform's tools for estimating, budgeting, and invoicing are comprehensive and user-friendly. Keeping track of expenses, generating invoices, and managing payments has never been easier. It has become an invaluable asset in maintaining financial clarity and ensuring profitability.",
     name: "Isabella Johnson",
-    company: "Graphic Designer",
-    image: "/images/testimonials/testi-4.png",
+    company: "M&K 4LOORING SOLUTIONS",
+    image: "/images/ICONS/logo111.png",
   },
   {
     id: 5,
     title:
-      "An Amazing Japan Journey: Bullet train travel with family was made effortless by the hotel's location. Agoda's pricing added tremendous value.",
+      "Excellent Customer Support: The customer support provided by Pro Contactors Plus is top-notch. Whenever I've encountered an issue or had a question, their support team has been quick to respond with helpful and knowledgeable assistance. Knowing that help is just a message away adds an extra layer of confidence and reliability to the overall experience with the platform..",
     name: "Ava Lee",
-    company: "Marketing Manager",
-    image: "/images/testimonials/testi-5.png",
+    company: "Taylor Flooring",
+    image: "/images/ICONS/tes5.webp",
   },
 ];
 export const browserCategory2 = [
