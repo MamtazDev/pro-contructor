@@ -41,12 +41,12 @@ export default function Breadcumb4() {
             height={300}
             width={532}
             className="service-v1-vector bounce-y d-none d-lg-block"
-            src="/images/services/Landscaping Contractors.jpg"
+            src="/images/services/Commercial Contractors.jpg"
             alt="vector-img"
           />
 
           <div className="container">
-            <div className="row wow fadeInUp">
+            <div className="row wow fadeInUp ">
               <div
                 className={`${
                   path === "/service-5" ? "col-xl-8" : "col-xl-5 "
@@ -57,8 +57,8 @@ export default function Breadcumb4() {
                     path === "/service-5" ? "pl80 pl0-sm" : ""
                   }`}
                 >
-                  <h2>Our Comprehensive Service Range:</h2>
-                  <p className="text mb30">
+                  <h2 className="text-white">Our Comprehensive Service Range:</h2>
+                  <p className="text mb30 text-white">
                     ProContractorsPlus.com offers a diverse array of services to
                     meet your every need. Whether you're planning a home
                     renovation, seeking professional landscaping, or need expert
@@ -72,7 +72,7 @@ export default function Breadcumb4() {
                     >
                       <i className="fal fa-play" />
                     </a>
-                    <h6 className="mb-0">How Freeio Works</h6>
+                    <h6 className="mb-0 text-white">How Freeio Works</h6>
                   </div>
                 </div>
               </div>

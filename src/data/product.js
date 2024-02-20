@@ -4,7 +4,7 @@ export const product1 = [
     img: "/images/services/Civil Contractors.jpg",
     img2: "/images/services/Civil Contractors.jpg",
     category: "Home Renovations",
-    title: "I will design modern websites in figma or adobe xd",
+    title: "Best home renovation design i can find",
     rating: 4.82,
     review: 94,
     author: {
@@ -26,8 +26,8 @@ export const product1 = [
     id: 2,
     img: "/images/services/Commercial Contractors.jpg",
     img2: "/images/services/Civil Contractors.jpg",
-    category: "Home Renovations",
-    title: "I will design modern websites in figma or adobe xd",
+    category: "Home estimates",
+    title: "Get instant estimate",
     rating: 4.82,
     review: 94,
     author: {
@@ -52,7 +52,7 @@ export const product1 = [
     img2: "/images/listings/g-19.jpg",
     category: "Plumbing",
     title:
-      "I will build a fully responsive design in HTML,CSS, bootstrap, and javascript",
+      "Find plumbers near you",
     rating: 4.82,
     review: 94,
     author: {
@@ -76,7 +76,7 @@ export const product1 = [
     img: "/images/services/Demolition Contractors.jpg",
     img2: "/images/listings/g-20.jpg",
     category: "Electrical Work    ",
-    title: "I will do mobile app development for ios and android",
+    title: "Electricians near you",
     rating: 4.82,
     review: 94,
     author: {
@@ -100,7 +100,7 @@ export const product1 = [
     img: "/images/services/Electrical Contractors.jpg",
     img2: "/images/listings/g-21.jpg",
     category: "Roofing",
-    title: "I will design modern websites in figma or adobe xd",
+    title: "Find a roofing company near you",
     rating: 4.82,
     review: 94,
     author: {
@@ -124,7 +124,7 @@ export const product1 = [
     img: "/images/services/Flooring contractors.jpg",
     img2: "/images/listings/g-22.jpg",
     category: "Painting",
-    title: "I will design modern websites in figma or adobe xd",
+    title: "Find a painter  near you",
     rating: 4.82,
     review: 94,
     author: {

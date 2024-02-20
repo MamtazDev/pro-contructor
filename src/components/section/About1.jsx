@@ -35,7 +35,7 @@ export default function About1() {
                     alt="object"
                   />
                 </div>
-                <div className="imgbox-1 default-box-shadow1 text-center wow fadeInUp">
+                {/* <div className="imgbox-1 default-box-shadow1 text-center wow fadeInUp">
                   <Image
                     height={68}
                     width={362}
@@ -43,7 +43,7 @@ export default function About1() {
                     src="/images/about/happy-client.png"
                     alt="object"
                   />
-                </div>
+                </div> */}
               </div>
             </div>
             <div className="col-xl-5 offset-xl-1">

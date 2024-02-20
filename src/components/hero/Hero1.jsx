@@ -102,7 +102,7 @@ export default function Hero1() {
               <div className="col-xl-10 col-xxl-7">
                 <div className="position-relative">
                   <h3 className="banner-title animate-up-2">
-                    Hire the best freelancers for{" "}
+                    Hire the best contractors for{" "}
                     <br className="d-none d-lg-block" />
                     any job, online.
                   </h3>

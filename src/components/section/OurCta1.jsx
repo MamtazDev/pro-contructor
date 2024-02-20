@@ -21,12 +21,12 @@ export default function OurCta1() {
       >
         <div className="container">
           <div className="row justify-content-between">
-            <div className="col-md-6 col-lg-7 col-xl-5 wow fadeInLeft">
+            <div className="col-md-6 col-lg-7 col-xl-5 wow fadeInLeft ">
               <div className="cta-style3">
-                <h2 className="cta-title">
+                <h2 className="cta-title text-white">
                   Find the talent needed to get your business growing.
                 </h2>
-                <p className="cta-text">
+                <p className="cta-text text-white">
                   Discover the ProContractorsPlus.com advantage today!
                 </p>
                 <Link href="/contact" className="ud-btn btn-thm2">

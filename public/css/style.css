@@ -4896,9 +4896,10 @@ section {
 
 /*	All CTA Styles Here  */
 .cta-service-v1 {
-  background-image: url(../images/background/cta-service-v1-bg.jpg);
+  /* background-image: url(../images/background/cta-service-v1-bg.jpg);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: cover; */
+  background-color: black;
   height: 300px;
 }
 
@@ -7203,7 +7204,7 @@ textarea {
 }
 
 .testimonial-style2 .icon {
-  color: #5BBB7B;
+  color: #ffde59;
   font-size: 60px;
   margin-bottom: 45px;
 }
@@ -7240,7 +7241,7 @@ textarea {
 
 .testimonial-style2 .nav-link.active img {
   border-radius: 50%;
-  outline: 2px solid #5BBB7B;
+  outline: 2px solid #ffde59;
   outline-offset: 10px;
 }
 
@@ -8086,8 +8087,8 @@ textarea {
 }
 
 .btn-thm {
-  background-color: #5BBB7B;
-  border: 2px solid #5BBB7B;
+  background-color: #ffde59;
+  border: 2px solid #ffde59;
   color: #ffffff;
 }
 
@@ -8244,7 +8245,7 @@ textarea {
 }
 
 .btn-thm2 {
-  background-color: #1F4B3F;
+  background-color: #ffde59;
   border: none;
   color: #ffffff;
 }
@@ -13379,15 +13380,15 @@ input:focus-visible {
 }
 
 .bgc-thm2 {
-  background-color: #1F4B3F;
+  background-color: black;
 }
 
 .bgc-thm3 {
-  background-color: #F1FCFA;
+  background-color: #ffde59;
 }
 
 .bgc-thm4 {
-  background-color: #FFEDE8;
+  background-color: black;
 }
 
 .bgc-thm5 {
