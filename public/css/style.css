@@ -14152,8 +14152,9 @@ hr {
 
 }
 
-.category_child p {
+.category_child a {
   white-space: nowrap;
+  display: block;
 }
 
 .category_parent:hover .category_child {
