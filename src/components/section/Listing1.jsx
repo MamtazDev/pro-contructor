@@ -86,7 +86,7 @@ export default function Listing1() {
             Your project is important to us, and we're here to ensure it's
             executed flawlessly.
           </p>
-          <Pagination1 />
+          {/* <Pagination1 /> */}
         </div>
       </section>
       <ListingSidebarModal1 />
