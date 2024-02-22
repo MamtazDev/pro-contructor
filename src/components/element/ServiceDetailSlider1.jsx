@@ -9,9 +9,11 @@ import { FreeMode, Navigation, Thumbs } from "swiper";
 import Image from "next/image";
 
 const gigImages = [
-  "/images/listings/service-details-1.jpg",
-  "/images/listings/service-details-1.jpg",
-  "/images/listings/service-details-1.jpg",
+  "/images/ICONS/greatscapeslogo.webp",
+  "/images/ICONS/floor.webp",
+  "/images/ICONS/roof.webp",
+  "/images/ICONS/tree.webp",
+  "/images/ICONS/pexels-ksenia-chernaya.jpg",
 ];
 
 export default function ServiceDetailSlider1() {
@@ -85,7 +87,7 @@ export default function ServiceDetailSlider1() {
                       width={929}
                       src={item}
                       alt="gallery"
-                      className="w-100 h-auto"
+                      className=""
                     />
                   </SwiperSlide>
                 ))}

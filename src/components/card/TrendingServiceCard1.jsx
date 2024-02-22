@@ -69,7 +69,7 @@ export default function TrendingServiceCard1({ data }) {
                 <Image
                   height={24}
                   width={24}
-                  className="rounded-circle wa"
+                  className="rounded-circle "
                   src={data.author.img}
                   alt="Freelancer Photo"
                 />

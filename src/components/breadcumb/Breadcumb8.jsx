@@ -30,7 +30,7 @@ export default function Breadcumb8() {
             height={300}
             width={532}
             className="service-v1-vector bounce-y d-none d-xl-block"
-            src="/images/vector-img/vector-service-v1.png"
+            src={data?.details}
             alt="vector-service"
           />
           <div className="container">
