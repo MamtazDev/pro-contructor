@@ -19,7 +19,7 @@ export default function About1() {
                 <div className="iconbox-small2 d-none d-md-block wow fadeInLeft">
                   <span className="icon flaticon-review" />
                   <div className="details">
-                    <h6>+12M</h6>
+                    <h6>+1000</h6>
                     <p className="text fz13 mb-0">Project Completed</p>
                   </div>
                 </div>
@@ -52,8 +52,8 @@ export default function About1() {
                 data-wow-delay="300ms"
               >
                 <h2 className="text-white mb35">
-                  Join World's Best Marketplace{" "} 
-                  <br className="d-none d-lg-block" /> for Workers
+                  Join World's Best Marketplace{" "}
+                  <br className="d-none d-lg-block" /> for contractors
                 </h2>
                 <p className="text text-white mb35">
                   It is a long established fact that a reader will be distracted
