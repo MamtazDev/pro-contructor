@@ -79,7 +79,7 @@ export default function About1() {
                     </li>
                   </ul>
                 </div>
-                <Link href="/freelancer-1" className="ud-btn btn-thm">
+                <Link href="/service-1" className="ud-btn btn-thm">
                   Find Talent
                   <i className="fal fa-arrow-right-long" />
                 </Link>
