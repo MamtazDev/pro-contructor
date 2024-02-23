@@ -8,11 +8,14 @@ import ServiceDetailSlider1 from "../element/ServiceDetailSlider1";
 import { Sticky, StickyContainer } from "react-sticky";
 import useScreen from "@/hook/useScreen";
 import ServiceContactWidget1 from "../element/ServiceContactWidget1";
+import { useParams } from "next/navigation";
+import { product1 } from "@/data/product";
 
 export default function ServiceDetail1() {
   const isMatchedScreen = useScreen(1216);
+  const { id } = useParams();
 
-  
+  const data = product1.find((item) => item.id == id);
 
   return (
     <>
@@ -24,46 +27,10 @@ export default function ServiceDetail1() {
                 <div className="column">
                   <ServiceDetailSlider1 />
                   <div className="service-about">
-                    <h4>About</h4>
-                    <p className="text mb30">
-                      It is a long established fact that a reader will be
-                      distracted by the readable content of a page when looking
-                      at its layout. The point of using Lorem Ipsum is that it
-                      has a more-or-less normal distribution of letters, as
-                      opposed to using 'Content here, content here', making it
-                      look like readable English.
-                    </p>
-                    <p className="text mb-0">Services I provide:</p>
-                    <p className="text mb-0">1) Website Design</p>
-                    <p className="text mb-0">2) Mobile App Design</p>
-                    <p className="text mb-0">3) Brochure Design</p>
-                    <p className="text mb-0">4) Business Card Design</p>
-                    <p className="text mb30">5) Flyer Design</p>
-                    <p className="text mb30">
-                      Many desktop publishing packages and web page editors now
-                      use Lorem Ipsum as their default model text, and a search
-                      for 'lorem ipsum' will uncover many web sites still in
-                      their infancy. Various versions have evolved over the
-                      years, sometimes by accident, sometimes on purpose
-                      (injected humour and the like).
-                    </p>
-                    <div className="d-flex align-items-start mb50">
-                      <div className="list1">
-                        <h6>App type</h6>
-                        <p className="text mb-0">Business, Food &amp; drink,</p>
-                        <p className="text">Graphics &amp; design</p>
-                      </div>
-                      <div className="list1 ml80">
-                        <h6>Design tool</h6>
-                        <p className="text mb-0">Adobe XD, Figma,</p>
-                        <p className="text">Adobe Photoshop</p>
-                      </div>
-                      <div className="list1 ml80">
-                        <h6>Device</h6>
-                        <p className="text">Mobile, Desktop</p>
-                      </div>
-                    </div>
-                    <hr className="opacity-100 mb60" />
+                    <h4>{data?.category}</h4>
+                    <p className="text mb30">{data?.description}</p>
+
+                    {/* <hr className="opacity-100 mb60" />
                     <h4>Compare Packages</h4>
                     <div className="table-style2 table-responsive bdr1 mt30 mb60">
                       <table className="table table-borderless mb-0">
@@ -187,7 +154,7 @@ export default function ServiceDetail1() {
                     <ServiceDetailExtra1 />
                     <hr className="opacity-100 mb15" />
                     <ServiceDetailReviewInfo1 />
-                    <ServiceDetailComment1 />
+                    <ServiceDetailComment1 /> */}
                   </div>
                 </div>
               </div>

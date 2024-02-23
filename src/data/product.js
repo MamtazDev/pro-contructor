@@ -22,6 +22,8 @@ export const product1 = [
     language: "turkish",
     lat: 23.8103,
     long: 90.4125,
+    description:
+      "Overview: Great Scapes may be a landscaping or outdoor services company. For specific services and pricing, visit their official website.",
   },
   {
     id: 2,
@@ -45,6 +47,8 @@ export const product1 = [
     language: "turkish",
     lat: 23.8103,
     long: 90.4125,
+    description:
+      "Overview: Nova Scotia Property Search appears to be related to real estate or property services, possibly offering home estimates. For accurate details, check their official website.",
   },
 
   {
@@ -70,10 +74,12 @@ export const product1 = [
     language: "italian",
     lat: 22.93720870038636,
     long: 89.2852741,
+    description:
+      "Overview: Neighbourhood Plumber likely provides plumbing services. To get detailed information, visit their official website or contact them directly.",
   },
   {
     id: 4,
-    img: "/images/services/Demolition Contractors.jpg",
+    img: "/images/services/Electrical Contractors.jpg",
     img2: "/images/listings/g-20.jpg",
     category: "Electrical Work    ",
     title: "Electricians near you",
@@ -94,6 +100,8 @@ export const product1 = [
     language: "spanish",
     lat: 24.461151100301006,
     long: 88.68887029999999,
+    description:
+      "Shines Energy: Overview: Shines Energy may be related to energy services. Check their official website for specifics on services and pricing.",
   },
   {
     id: 5,
@@ -118,6 +126,8 @@ export const product1 = [
     language: "turkish",
     lat: 22.8246,
     long: 91.1017,
+    description:
+      "   - Overview: Rydel Roofing may specialize in roofing products and services. For specifics, check their official website or contact them for details.",
   },
   {
     id: 6,
@@ -142,6 +152,8 @@ export const product1 = [
     language: "english",
     lat: 25.833558000180908,
     long: 88.9939966,
+    description:
+      "Overview: Coat of Many Colors Painting is likely a painting company. To get detailed information, check their official website or contact them directly.",
   },
   {
     id: 7,
@@ -164,6 +176,8 @@ export const product1 = [
     sort: "best-seller",
     tool: "figma",
     language: "italian",
+    description:
+      " Overview: M&K Flooring may offer flooring solutions. Visit their official website for detailed information on services and pricing.",
   },
   {
     id: 8,
@@ -186,6 +200,8 @@ export const product1 = [
     sort: "recommended",
     tool: "sketch",
     language: "spanish",
+    description:
+      "Overview: Green Scholars is likely a landscaping company. Visit their official website for information on services and pricing.",
   },
   {
     id: 9,
@@ -208,6 +224,8 @@ export const product1 = [
     sort: "new-arrivals",
     tool: "adobe-xd",
     language: "turkish",
+    description:
+      "Overview: Cross Brothers, a demolition company. For specific services and pricing, visit their official website or contact them directly.",
   },
 ];
 

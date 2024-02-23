@@ -71,7 +71,7 @@ export default function ServiceDetailSlider1() {
               </div>
               <div className="details">
                 <h5 className="title">Location</h5>
-                <p className="mb-0 text">New York</p>
+                <p className="mb-0 text">Halifax Nova Scotia</p>
               </div>
             </div>
           </div>
