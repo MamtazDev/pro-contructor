@@ -8,22 +8,21 @@ export const about = [
 ];
 
 export const category = [
-  { id: 1, name: "Graphics & Design", path: "/" },
-  { id: 2, name: "Digital Marketing", path: "/" },
-  { id: 3, name: "Writing & Translation", path: "/" },
-  { id: 4, name: "Video & Animation", path: "/" },
-  { id: 5, name: "Music & Audio", path: "/" },
-  { id: 6, name: "Programming & Tech", path: "/" },
-  { id: 7, name: "Data", path: "/" },
-  { id: 8, name: "Business", path: "/" },
-  { id: 9, name: "Lifestyle", path: "/" },
+  { id: 1, name: "Home Renovations", path: "/" },
+  { id: 2, name: "Landscaping & Outdoor Services", path: "/" },
+  { id: 3, name: "Plumbing & HVAC", path: "/" },
+  { id: 4, name: "Electrical Services", path: "/" },
+  { id: 5, name: "Roofing & Exterior Services", path: "/" },
+  { id: 6, name: "Painting Services", path: "/" },
+  { id: 7, name: "Commercial Construction", path: "/" },
+  { id: 8, name: " General Maintenance & Repairs", path: "/" },
 ];
 
 export const support = [
   { id: 1, name: "Help & Support", path: "/help-and-support" },
   { id: 2, name: "Trust & Safety", path: "/trust-and-safety" },
-  { id: 3, name: "Selling on Freeio", path: "/" },
-  { id: 4, name: "Buying on Freeio", path: "/" },
+  { id: 3, name: "Selling on Pro Contractor", path: "/" },
+  { id: 4, name: "Buying on Pro Contractor", path: "/" },
 ];
 
 export const momney = ["US$ USD", "Euro", "Pound"];
