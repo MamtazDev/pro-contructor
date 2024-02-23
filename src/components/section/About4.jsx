@@ -26,21 +26,21 @@ export default function About4() {
                   <div className="freelancer-widget d-none d-lg-block">
                     <h5 className="title mb20">
                       <span className="text-thm">200+</span>
-                      Verified Freelancer
+                      Verified contractor
                     </h5>
                     <div className="thumb d-flex align-items-center mb20">
                       <div className="flex-shrink-0">
                         <Image
                           height={55}
                           width={55}
-                          className="wa"
-                          src="/images/team/ea-1.png"
+                          src="/images/ICONS/tes1.webp"
                           alt="object"
                         />
                       </div>
                       <div className="flex-grow-1 ml20">
-                        <h6 className="title mb-0">Marvin McKinney</h6>
-                        <p className="fz14 mb-0">Designer</p>
+                        <h6 className="title mb-0">
+                          Scotia First Class Flooring
+                        </h6>
                       </div>
                     </div>
                     <div className="thumb d-flex align-items-center mb20">
@@ -48,14 +48,12 @@ export default function About4() {
                         <Image
                           height={55}
                           width={55}
-                          className="wa"
-                          src="/images/team/ea-2.png"
+                          src="/images/ICONS/tes2.png"
                           alt="object"
                         />
                       </div>
                       <div className="flex-grow-1 ml20">
-                        <h6 className="title mb-0">Ralph Edwards</h6>
-                        <p className="fz14 mb-0">Designer</p>
+                        <h6 className="title mb-0">Paterson group</h6>
                       </div>
                     </div>
                     <div className="thumb d-flex align-items-center mb20">
@@ -63,14 +61,12 @@ export default function About4() {
                         <Image
                           height={55}
                           width={55}
-                          className="wa"
-                          src="/images/team/ea-3.png"
+                          src="/images/ICONS/tes3.png"
                           alt="object"
                         />
                       </div>
                       <div className="flex-grow-1 ml20">
-                        <h6 className="title mb-0">Annette Black</h6>
-                        <p className="fz14 mb-0">Designer</p>
+                        <h6 className="title mb-0">I&J Flooring</h6>
                       </div>
                     </div>
                     <div className="thumb d-flex align-items-center">
@@ -78,14 +74,12 @@ export default function About4() {
                         <Image
                           height={55}
                           width={55}
-                          className="wa"
-                          src="/images/team/ea-4.png"
+                          src="/images/ICONS/tes5.webp"
                           alt="object"
                         />
                       </div>
                       <div className="flex-grow-1 ml20">
-                        <h6 className="title mb-0">Jane Cooper</h6>
-                        <p className="fz14 mb-0">Designer</p>
+                        <h6 className="title mb-0">Taylor floring</h6>
                       </div>
                     </div>
                   </div>
@@ -95,14 +89,16 @@ export default function About4() {
                         height={90}
                         width={90}
                         className="rounded-circle mx-auto"
-                        src="/images/team/fl-2.png"
+                        src="/images/ICONS/logo111.png"
                         alt="object"
                       />
                       <span className="online" />
                     </div>
                     <div className="details">
-                      <h5 className="title mb-1">Kristin Watson</h5>
-                      <p className="mb-0">Dog Trainer</p>
+                      <h5 className="title mb-1">
+                        M&K 4LOORING SOLUTIONS Starting
+                      </h5>
+
                       <div className="review">
                         <p>
                           <i className="fas fa-star fz10 review-color pr10" />
@@ -110,17 +106,19 @@ export default function About4() {
                           (595 reviews)
                         </p>
                       </div>
-                      <div className="skill-tags d-flex align-items-center justify-content-center mb20">
+                      {/* <div className="skill-tags d-flex align-items-center justify-content-center mb20">
                         <span className="tag">Figma</span>
                         <span className="tag mx10">Sketch</span>
                         <span className="tag">HTML5</span>
-                      </div>
+                      </div> */}
                       <hr className="opacity-100" />
                       <div className="fl-meta d-flex align-items-center justify-content-between">
                         <a className="meta fw500 text-start">
                           Location
                           <br />
-                          <span className="fz14 fw400">London</span>
+                          <span className="fz14 fw400">
+                            Halifax Nova Scotia
+                          </span>
                         </a>
                         <a className="meta fw500 text-start">
                           Rate
@@ -209,10 +207,10 @@ export default function About4() {
                       ))}
                     </ul>
                   </div>
-                  <a href="/service-single" className="ud-btn btn-thm2">
+                  {/* <a href="/service-single" className="ud-btn btn-thm2">
                     See More
                     <i className="fal fa-arrow-right-long" />
-                  </a>
+                  </a> */}
                 </div>
               </div>
             </div>

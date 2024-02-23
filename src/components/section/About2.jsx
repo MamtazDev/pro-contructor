@@ -1,10 +1,10 @@
 import Image from "next/image";
 
 const aboutImages = [
-  "/images/about/about-1.jpg",
-  "/images/about/about-2.jpg",
-  "/images/about/about-3.jpg",
-  "/images/about/about-4.jpg",
+  "/images/services/Insulation Contractors.jpg",
+  "/images/services/genaral contracting.jpg",
+  "/images/services/Civil Contractors.jpg",
+  "/images/services/Commercial Contractors.jpg",
 ];
 
 export default function About2() {
