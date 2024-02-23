@@ -12,6 +12,8 @@ import ServiceContactWidget1 from "../element/ServiceContactWidget1";
 export default function ServiceDetail1() {
   const isMatchedScreen = useScreen(1216);
 
+  
+
   return (
     <>
       <StickyContainer>

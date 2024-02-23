@@ -13,6 +13,21 @@ const gigImages = [
   "/images/ICONS/floor.webp",
   "/images/ICONS/roof.webp",
   "/images/ICONS/tree.webp",
+  "/images/ICONS/logo111.png",
+  "/images/ICONS/rydel-logo.png",
+  "/images/ICONS/project1.jpg",
+  "/images/ICONS/project3.jpg",
+  "/images/ICONS/project4.jpg",
+  "/images/ICONS/project6.jpg",
+  "/images/ICONS/painting1.jpeg",
+  "/images/ICONS/painting2.jpeg",
+  "/images/ICONS/painting3.webp",
+  "/images/ICONS/painting4.jpeg",
+  "/images/ICONS/land1.jpeg",
+  "/images/ICONS/land2.jpeg",
+  "/images/ICONS/land4.jpeg",
+  "/images/ICONS/land44.jpeg",
+
   "/images/ICONS/pexels-ksenia-chernaya.jpg",
 ];
 
