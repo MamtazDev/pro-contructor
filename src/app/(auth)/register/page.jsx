@@ -3,15 +3,15 @@ import Link from "next/link";
 export default function page() {
   return (
     <>
-      <section className="our-register">
+      <section className="our-register bg-white">
         <div className="container">
           <div className="row">
             <div
               className="col-lg-6 m-auto wow fadeInUp"
               data-wow-delay="300ms"
             >
-              <div className="main-title text-center">
-                <h2 className="title">Register</h2>
+              <div className="main-title text-center ">
+                <h2 className="title ">Register</h2>
                 <p className="paragraph">
                   Give your visitor a smooth online experience with a solid UX
                   design

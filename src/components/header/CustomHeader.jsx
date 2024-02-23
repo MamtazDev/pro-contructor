@@ -79,7 +79,7 @@ const CustomHeader = () => {
                 >
                   <span className="flaticon-loupe"></span>
                 </a>
-                <Link className="login-info mx10-lg mx30" href="/become-seller">
+                <Link className="login-info mx10-lg mx30" href="/register">
                   <span className="d-none d-xl-inline-block">Become a</span>{" "}
                   contractor
                 </Link>
