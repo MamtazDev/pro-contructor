@@ -80,9 +80,40 @@ const CustomHeader = () => {
                   <span className="flaticon-loupe"></span>
                 </a>
                 <Link className="login-info mx10-lg mx30" href="/register">
-                  <span className="d-none d-xl-inline-block">Become a</span>{" "}
-                  contractor
+                  {/* <span className="d-none d-xl-inline-block">
+                  Become a</span>contractor */}
+                  Sign Up
                 </Link>
+
+                {/* <div class="nav-item dropdown mx10-lg mx30">
+                  <a
+                    class="nav-link dropdown-toggle"
+                    href="#"
+                    role="button"
+                    data-bs-toggle="dropdown"
+                    aria-expanded="false"
+                  >
+                    Register
+                  </a>
+                  <ul class="dropdown-menu">
+                    <li>
+                      <Link class="dropdown-item" href="/register">
+                        Find a contractor
+                      </Link>
+                    </li>
+                    <li>
+                      <a class="dropdown-item" href="/register">
+                        Become a service provider
+                      </a>
+                    </li>
+                    <li>
+                      <a class="dropdown-item" href="/register">
+                        Become a contractor
+                      </a>
+                    </li>
+                  </ul>
+                </div> */}
+
                 <Link className="login-info mr10-lg mr30" href="/login">
                   Sign in
                 </Link>

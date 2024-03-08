@@ -52,6 +52,19 @@ export default function page() {
                   />
                 </div>
                 <div className="mb25">
+                  <label className="form-label fw500 dark-color">
+                    Select User Role
+                  </label>
+                  <select
+                    class="form-select p-3"
+                    aria-label="Default select example"
+                  >
+                    <option selected>Become a contractor</option>
+                    <option value="1">Become a service provider</option>
+                    <option value="2"> Find a contractor</option>
+                  </select>
+                </div>
+                <div className="mb25">
                   <label className="form-label fw500 dark-color">Email</label>
                   <input
                     type="email"
